@@ -1,5 +1,0 @@
-developer разработчик
-commit совершить
-push толкать
-team leader тимлид
-bug баг

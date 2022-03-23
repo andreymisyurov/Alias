@@ -41,7 +41,7 @@ int is_file_txt(const char *file) {
 void create_tmp_file_with_txt(const char *folder) {
     // Creating string with command and foolder path
     const size_t tmp_size = strlen(TMP_FILE_WITH_TXT);
-    const char cmd_part_1[] = "ls --file-type ", cmd_part_3[] = " | grep .txt > ";
+    const char cmd_part_1[] = "ls ", cmd_part_3[] = " | grep .txt > ";
     const size_t size_1 = strlen(cmd_part_1), size_2 = strlen(folder), size_3 = strlen(cmd_part_3);
     char *command = calloc(size_1 + size_2 + size_3 + tmp_size + 1, sizeof(char));
     command = strcat(command, cmd_part_1);

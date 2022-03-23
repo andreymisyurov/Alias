@@ -4,6 +4,7 @@
 Record *init_record() {
     Record *result = malloc(sizeof(Record));
     result->eng_word = NULL;
+    result->transcription = NULL;
     result->rus_word = NULL;
     return result;
 }
@@ -13,6 +14,8 @@ void free_record(Record *record) {
     if (record) {  // ! in case of uninitialized record
         if (record->eng_word)
             free(record->eng_word);
+        if (record->transcription)
+            free(record->transcription);
         if (record->rus_word)
             free(record->rus_word);
         free(record);
@@ -31,7 +34,7 @@ Record *mem_record(FILE *file) {
     unsigned char *str1 = NULL, c = fgetc(file);
     size_t size = 0;
     Record *result = init_record();
-    while (c < 160) {
+    while (c != '/') {
         unsigned char *tmp = str1;
         str1 = realloc(tmp, (++size + 1) * sizeof(unsigned char));
         str1[size - 1] = c;
@@ -45,18 +48,33 @@ Record *mem_record(FILE *file) {
     }
     result->eng_word = str1;
     size = 0;
-    fseek(file, -1, SEEK_CUR);
-    c = fgetc(file);
     unsigned char *str2 = NULL;
-    while (c != '\n') {
+    c = fgetc(file);
+    while (c != '/') {
         unsigned char *tmp = str2;
-        str2 = realloc(tmp, (++size + 1) * sizeof(char));
+        str2 = realloc(tmp, (++size + 1) * sizeof(unsigned char));
         str2[size - 1] = c;
         c = fgetc(file);
     }
-    if (str2)  // ! Like str1^^
-        str2[size] = '\0';
-    result->rus_word = str2;
+    if (str2) {  // ! Theoretically it is possible that str1 will be NULL
+        // in case of unwilling space after last eng word
+        unsigned char *tmp = str2;
+        str2 = realloc(tmp, size * sizeof(unsigned char));
+        str2[size - 1] = '\0';
+    }
+    result->transcription = str2;
+    size = 0;
+    unsigned char *str3 = NULL;
+    c = fgetc(file);
+    while (c != '\n') {
+        unsigned char *tmp = str3;
+        str3 = realloc(tmp, (++size + 1) * sizeof(char));
+        str3[size - 1] = c;
+        c = fgetc(file);
+    }
+    if (str3)  // ! Like str1 && str2^^
+        str3[size] = '\0';
+    result->rus_word = str3;
     return result;
 }
 
@@ -115,7 +133,7 @@ void show_files_contents(const char *folder) {
         printf("----IN FILE %s - %lu RECORDS----\n", files[i], record_count);
         for (size_t j = 1; j <= record_count; j++) {
             Record *record = read_record(file, j);
-            printf("%s %s", record->eng_word, record->rus_word);
+            printf("%s [ %s ] - %s", record->eng_word, record->transcription, record->rus_word);
             free_record(record);
             if (j != record_count)
                 printf("\n");
