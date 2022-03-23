@@ -1,0 +1,3506 @@
+fly/flai/летать
+pilot/'pailət/пилот
+hospital/'hɔspitl/больница
+estate/is'teit/поместье, имущество, сословие
+apartment/ə'pɑ:tmənt/квартира
+bakery/'beikəri/пекарня
+temple/templ/храм
+church/ʧə:ʧ/церковь
+dentist/'dentist/зубной врач
+doctor/'dɔktə/доктор, врач
+nurse/nə:s/няня (не nanny)
+cup/kʌp/чашка
+cupboard/'kʌbəd/буфет
+glass/glɑ:s/стакан, бокал
+plate/pleit/тарелка
+saucepan/'sɔ:spən/кастрюля
+jug/ʤʌg/кувшин
+kettle/ketl/чайник
+sink/siŋk/тонуть
+tap/tæp/постучать
+telephone/'telifəun/телефон, звонить по телефону
+knife/naif/нож
+plane/plein/самолет
+photographer/fə'tɔgrəfə/фотограф
+reporter/ri'pɔ:tə/репортер
+postman/'pəustman/почтальон
+cabbage/'kæbiʤ/капуста
+fork/fɔ:k/вилка
+spoon/spu:n/ложка
+waiter/'weitə/официант
+waitress/weits/официантка
+market/'mɑ:kit/рынок
+actor/'æktə/актер
+drugstore/'drʌg‚stɔ:r/аптека
+pedestrian/pi'destriən/пешеход
+block/blɔk/блок, квартал
+bus/bʌs/автобус
+car/kɑ:/машина
+stadium/'steidjəm/стадион
+street/stri:t/улица
+taxi/'tæksi/такси
+tram/træm/трамвай
+underground/'ʌndəgraund/метрополитен, подземный, подпольный
+van/væn/фургон, багажный вагон
+park/pɑ:k/парк, (при)парковать(ся)
+boulevard/'bu:lvɑ:/бульвар
+truck/trʌk/грузовик
+bicycle/'baisikl/велосипед
+train/trein/поезд, привлекать, воспитывать
+coach/kəuʧ/тренировать, инструктор
+fly/flai/летать
+pilot/'pailət/пилот
+hospital/'hɔspitl/больница
+estate/is'teit/поместье, имущество, сословие
+apartment/ə'pɑ:tmənt/квартира
+bakery/'beikəri/пекарня
+temple/templ/храм
+church/ʧə:ʧ/церковь
+dentist/'dentist/зубной врач
+doctor/'dɔktə/доктор, врач
+nurse/nə:s/няня (не nanny)
+cup/kʌp/чашка
+cupboard/'kʌbəd/буфет
+glass/glɑ:s/стакан, бокал
+plate/pleit/тарелка
+saucepan/'sɔ:spən/кастрюля
+jug/ʤʌg/кувшин
+kettle/ketl/чайник
+sink/siŋk/тонуть
+tap/tæp/постучать
+telephone/'telifəun/телефон, звонить по телефону
+knife/naif/нож
+plane/plein/самолет
+photographer/fə'tɔgrəfə/фотограф
+reporter/ri'pɔ:tə/репортер
+postman/'pəustman/почтальон
+cabbage/'kæbiʤ/капуста
+fork/fɔ:k/вилка
+spoon/spu:n/ложка
+waiter/'weitə/официант
+waitress/weits/официантка
+market/'mɑ:kit/рынок
+actor/'æktə/актер
+drugstore/'drʌg‚stɔ:r/аптека
+pedestrian/pi'destriən/пешеход
+block/blɔk/блок, квартал
+bus/bʌs/автобус
+car/kɑ:/машина
+stadium/'steidjəm/стадион
+street/stri:t/улица
+taxi/'tæksi/такси
+tram/træm/трамвай
+underground/'ʌndəgraund/метрополитен, подземный, подпольный
+van/væn/фургон, багажный вагон
+park/pɑ:k/парк, (при)парковать(ся)
+boulevard/'bu:lvɑ:/бульвар
+truck/trʌk/грузовик
+bicycle/'baisikl/велосипед
+train/trein/поезд, привлекать, воспитывать
+coach/kəuʧ/тренировать, инструктор
+border/'bɔ:də/граница
+artist/'ɑ:tist/художник
+actress/'æktris/актриса
+computer/kəm'pju:tə/компьютер
+mouse/maus/мышь
+teacher/'ti:ʧə/учитель
+lawyer/'lɔ:jə/адвокат, юрист
+suit/sju:t/костюм, подходить, устраивать
+jail/ʤeil/тюрьма
+jacket/'ʤækit/куртка
+baker/'beikə/пекарь, булочник
+butcher/'buʧə/мясник
+gardener/'gɑ:dnə/садовник
+fisherman/'fiʃəmən/рыбак
+carpenter/'kɑ:pintə/плотник
+architect/'ɑ:kitekt/архитектор
+farmer/'fɑ:mə/фермер
+locksmith/'lɔksmiθ/слесарь
+scientist/'saiəntist/ученый
+writer/'raitə/писатель
+hand/hænd/рука
+rubber/'rʌbə/резина
+skin/skin/кожа
+mole/məul/крот
+foot/fut/нога, фут
+chest/ʧest/грудь
+scarf/skɑ:f/шарф
+tie/tai/связь, связывать, галстук
+blouse/blauz/блуза
+dress/dres/платье, одеваться
+shirt/ʃə:t/рубашка, блузка
+jeans/ʤi:nz/джинсы
+raincoat/'reinkəut/плащ
+shorts/ʃɔ:ts/трусики
+sweater/'swetə/эксплуататор
+vest/vest/жилет (амер.), майка
+waistcoat/'weskət/жилет
+socks/sɔks/носки (от sock)
+overcoat/'əuvəkəut/пальто
+stockings/'stɔkiŋz/чулки (от stocking)
+ant/ænt/муравей
+cat/kæt/кошка
+deer/diə/олень, лань
+lion/'laiən/лев
+pig/pig/свинья
+bee/bi:/пчела
+bear/bɛə/медведь, спекулянт
+wolf/wulf/волк
+frog/frɔg/лягушка
+lizard/'lized/ящерица
+elephant/'elifənt/слон
+rabbit/'ræbit/кролик
+donkey/'dɔnki/осел
+mosquito/məs'ki:təu/комар
+tiger/'taigə/тигр
+turtle/'tə:tl/черепаха (TR!)
+monkey/'mʌŋki/обезьяна
+fox/fɔks/лиса
+squirrel/'skwir(ə)l/белка
+rhinoceros/rai'nɔsərəs/носорог
+worm/wə:m/червь, глист, ничтожество (перен.)
+spider/'spaidə/паук
+crocodile/'krɔkədail/крокодил
+snake/sneik/змея
+beetle/'bi:tl/трамбовать, дробить камни
+grasshopper/'grɑ:s,hɔpə/кузнечик
+wasp/wɔsp/оса
+moth/mɔθ/моль, мотылек
+apple/æpl/яблоко
+apricot/'eiprikɔt/абрикос
+carrot/'kærət/морковь
+fig/fig/рис. (TR!)
+garlic/gɑ:lik/чеснок
+onion/'ʌnjən/лук
+orange/'ɔrinʤ/апельсин, оранжевый
+peach/pi:ʧ/персик
+pear/pɛə/груша
+pineapple/'pain,æpl/ананас
+plum/plʌm/слива
+tangerine/,tænʤə'ri:n/мандарин (плод)
+lemon/'lemən/лимон
+grapes/greɪps/виноград
+melon/'melən/дыня
+peas/pi:z/горошек, горох
+tomato/tə'mɑ:təu/томат, помидор
+lettuce/'letis/салат
+cucumber/'kju:kʌmbə/огурец
+potato/pə'teitəu/картофель
+ear/iə/ухо
+beard/biəd/борода
+cheek/ʧi:k/щека
+chin/ʧin/подбородок
+eye/ai/глаз
+eyebrow/'aibrau/бровь
+forehead/'fɔrid/лоб
+head/hed/голова, главный, руководить
+lip/lip/губа
+mouth/mauθ/рот
+nose/nəuz/нос
+tongue/tʌŋ/язык
+tooth/tu:θ/зуб
+arm/ɑ:m/рука
+back/bæk/спина, назад
+elbow/'elbəu/локоть
+hair/hɛə/волосы
+knee/ni:/колено
+leg/leg/нога
+nail/neil/ноготь, гвоздь
+neck/nek/шея
+shoulder/'ʃəuldə/плечо, толкать
+face/feis/лицо
+palm/pɑ:m/ладонь
+wrist/rist/наручный, запястье
+waist/weist/талия
+hip/hip/ягода шиповника
+pumpkin/'pʌmpkin/тыква
+pepper/'pepə/перец
+turnip/'tɜ:rnɪp/репа
+parsley/'pɑ:sli/петрушка (бот.)
+lime/laim/известь
+dog/dɔg/собака
+corner/'kɔ:nə/угол
+cow/kau/корова
+drawer/'drɔ:ə/чертежник
+goat/gəut/козел, коза
+jaw/ʤɔ:/челюсть
+model/mədl/модель
+pen/pen/ручка
+pupil/pju:pl/ученик
+rat/ræt/крыса
+sheep/'ʃi:p/овца, овцы
+swing/swiŋ/качание, качели, качаться, колебаться
+grater/'greitə/терка
+briefcase/'bri:f‚keɪs/портфель
+strawberries/'strɔ:bəriz/клубника
+cherries/'ʧeriz/вишни (от cherry)
+dates/deits/даты (от date)
+braces/'breɪsɪz/подтяжки
+gloves/glʌvz/перчатки (от glove)
+pyjamas/pə'ʤɑ:məz/пижама
+cricket/'krikit/крикет (спорт.)
+beetroot/'bi:tru:t/красная свекла
+badger/'bæʤə/барсук, травить
+bench/benʧ/скамейка
+flea/fli:/блоха
+doll/dɔl/кукла
+rattle/'rætl/трещать, греметь, грохотать; треск, грохот, погремушка, трещотка
+cradle/'kreidl/колыбель, убаюкивать
+infant/'infənt/младенец
+mason/'meisn/каменщик
+foreman/'fɔ:mən/мастер, старший рабочий, техник, прораб
+nostril/'nɔstril/ноздря
+calf/kɑ:f/слоненок, теленок, молодой кит
+people/pi:pl/люди
+sadness/'sædnis/печаль
+joy/ʤɔi/радость
+happiness/'hæpinis/счастье
+feeling/'fi:liŋ/чувство, чувствующий (от feel)
+love/lʌv/любовь, любить
+hate/heit/ненавидеть
+indifference/in'difrəns/безразличие
+surprise/sə'praiz/удивление, удивлять
+anger/'æŋgə/гнев, злость
+fright/frait/испуг
+laughter/'lɑ:ftə/смех, хохот
+black/blæk/черный
+sympathy/'simpəθi/симпатия, сострадание
+fear/fiə/страх, опасение, бояться, опасаться
+tenderness/'tendənis/нежность (!NEW!)
+blue/blu:/синий
+brown/braun/коричневый
+gold/gəuld/золото, золотой
+green/gri:n/зеленый
+grey/grei/серый
+pink/piŋk/розовый
+purple/'pə:pl/лиловый, малиновый
+red/red/красный
+silver/'silvə/серебро, серебряный
+white/wait/белый
+yellow/'jeləu/желтый
+lid/lid/крышка
+towel/'tauəl/полотенце
+refrigerator/ri'friʤireitə/холодильник
+cabinet/'kæbinet/кабинет (не parlour)
+stove/stəuv/печь, плита
+oven/ʌvn/печь
+faucet/'fɔ:sɪt/водопроводный кран, вентиль
+pigeon/piʤin/голубь
+crow/krəu/ворона
+beak/bi:k/клюв
+eagle/'i:gl/орел
+owl/aul/сова
+feather/'feðə/предмет гордости, достижение
+robin/'rɔbin/малиновка
+sparrow/'spærəu/воробей
+ostrich/'ɔstriʧ/страус
+egg/eg/яйцо
+parrot/'pærət/попугай
+peacock/'pi:kɔk/павлин
+turkey/'tə:ki/индейка
+chicken/'ʧikin/цыпленок, кура
+duck/dʌk/утка
+goose/gu:s/гусь
+swan/swɔn/лебедь
+stork/stɔ:k/аист
+nest/nest/гнездо
+swallow/'swɔləu/глотать, проглатывать
+crane/krein/журавль, подъемный кран
+sky/skai/небо
+sea/si:/море, океан
+cliff/klif/утес, скала
+beach/bi:ʧ/пляж
+crab/kræb/краб
+island/'ailənd/остров
+lighthouse/'laithaus/маяк
+pebble/'pebl/галька, горный хрусталь
+sand/sænd/песок
+seaweed/'si:wi:d/морская водоросль (TR!)
+shell/ʃel/раковина, скорлупа
+wave/weiv/волна
+motel/məu'tel/мотель, гостиница
+lifeboat/'laifbəut/спасательная лодка
+pail/peil/ведро
+swimmer/'swimə/пловец
+tube/tju:b/труба (не pipe)
+mask/mɑ:sk/маска
+TV/‚ti:'vi:/телевизор, телевидение
+speaker/'spi:kə/оратор
+record/'rekɔ:d/запись, пластинка, отчет, рекорд
+headphones/'hedfəunz/наушники
+radio/'reidiəu/радио
+microphone/'maikrəfəun/микрофон
+gardening/'gɑ:dniŋ/садоводство
+reading/'ri:diŋ/чтение
+singing/'siŋiŋ/пение (TR!)
+ceiling/'si:liŋ/потолок
+wall/wɔ:l/стена
+painting/'peintiŋ/живопись
+vase/vɑ:z/ваза
+fireplace/'faɪər‚pleɪs/камин (TR!)
+staircase/'stɛəkeis/лестница
+step/step/шаг, шагать (step)
+desk/desk/письменный стол
+carpet/'kɑ:pit/ковер, устилать
+chair/ʧɛə/стул
+bookcase/'bukkeis/книжный шкаф
+curtain/kə:tn/занавеска, занавес
+cushion/'kuʃən/подушка
+sofa/'səufə/диван
+lamp/læmp/лампа
+window/'windəu/окно, оконный
+plant/plɑ:nt/завод, растение, сажать, внедрять, посадить
+photograph/'fəutəgrɑ:f/фотография, фотографировать
+stocking/'stɔkiŋ/чулок
+slip/slip/скольжение, скользить
+brain/brein/мозг
+throat/θrəut/горло
+heart/hɑ:t/сердце
+liver/'livə/печень
+stomach/'stʌmək/живот, желудок
+muscle/'mʌs(ə)l/мышца
+bone/bəun/кость
+kidney/'kidni/почка (анатом.)
+vein/vein/вена, жила, жилка
+willow/'wiləu/ива
+birch/bə:ʧ/береза, розга
+oak/əuk/дуб
+branch/brɑ:nʧ/ветвь, отрасль
+acorn/'eikɔ:n/желудь
+pine/pain/сосна
+cone/kəun/конус, шишка (еловая)
+trunk/trʌŋk/ствол, туловище
+bark/bɑ:k/кора дерева
+root/'ru:t/корень
+leaf/li:f/лист
+twig/twɪg/веточка, прутик
+beech/bi:ʧ/бук
+ash/æʃ/ясень
+chestnut/'ʧesnʌt/каштан
+walnut/'wɔ:lnʌt/грецкий орех
+mountain/'mauntin/гора
+hill/hil/холм, гора
+river/'rivə/река
+village/'viliʤ/деревня
+bridge/briʤ/мост
+orchard/'ɔ:ʧəd/фруктовый сад
+pond/pɔnd/пруд (не pool)
+stable/'steibl/конюшня
+hay/hei/сено
+field/fi:ld/поле
+fence/fens/забор
+barn/bɑ:n/амбар
+tent/tent/палатка
+blocks/blɔks/кварталы (от block)
+puzzle/pʌzl/приводить в затруднение, загадка
+shovel/'ʃʌvl/лопата
+clay/klei/глина, земля
+nightingale/'naitiŋgeil/соловей
+violet/'vaiələt/фиолетовый (не purple)
+consciousness/'kɔnʃəsnis/сознание, сознательность
+abstract/'æbstrækt/отвлеченный, абстрактный
+dramatic/drə'mætik/драматический
+grand/grænd/величественный
+resident/'rezidənt/постоянный житель
+prop/prɔp/подпорка, опора, подпирать
+odd/ɔd/странный
+recommend/,rekə'mend/рекомендовать
+comb/kəum/гребенка, расчесывать, расчесать
+brush/brʌʃ/щетка, чистить щеткой
+razor/'reizə/бритва
+scissors/'sizəz/ножницы
+powder/'paudə/пудра
+perfume/'pə:fju:m/духи
+pike/paik/щука (не lung)
+fry/frai/(за)жарить
+smelt/smelt/плавить
+salmon/'sæmən/лосось
+trout/traut/форель
+oyster/'ɔistə/устрица
+fin/fin/плавник
+scale/skeil/масштаб
+net/net/сеть
+bait/beit/приманка
+float/fləut/плавать, поплавок
+prey/prei/жертва
+glove/glʌv/перчатка
+hat/hæt/шляпа
+skirt/skə:t/юбка
+trousers/'trauzəz/брюки
+uniform/'ju:nifɔ:m/форма, форменная одежда
+necklace/'neklis/ожерелье
+belt/belt/пояс, ремень
+button/bʌtn/кнопка, пуговица
+glasses/glɑ:siz/очки
+pocket/'pɔkit/карман
+umbrella/ʌm'brelə/зонт
+purse/pə:s/кошелек
+criminal/'kriminl/преступник, уголовный
+break/breik/ломать
+timid/'timid/робкий, застенчивый
+bomb/bɔm/бомба, бомбить
+submarine/'sʌbməri:n/подводная лодка
+tank/tæŋk/танк, резервуар
+cannon/'kænən/пушка, орудие
+navy/'neivi/военный флот
+sailor/'seilə/матрос
+army/'ɑ:mi/армия
+soldier/'səulʤə/солдат
+marine/mə'ri:n/морской флот, морской
+rifle/'raifl/ружье, винтовка
+trigger/'trigə/курок
+barrel/'bærəl/баррель
+bullet/'bulit/пуля
+fish/fiʃ/рыба
+kitten/kitn/котенок
+tortoise/'tɔ:təs/черепаха
+blow/bləu/дуть
+clap/klæp/хлопать, аплодировать; удар, хлопок
+laugh/lɑ:f/смех, смеяться
+open/əupn/открывать
+point/pɔint/точка, пункт, суть дела, указывать, показывать
+touch/tʌʧ/соприкосновение, контакт
+walk/wɔ:k/гулять, ходить пешком (не hike)
+close/kləus/закрывать(ся)
+cough/kɔf/кашель
+crawl/krɔ:l/ползать (не creep)
+cry/krai/кричать, восклицать
+dance/dɑ:ns/танцевать
+jump/ʤʌmp/прыгать
+hop/hɔp/хмель (бот.)
+fall/fɔ:l/падать
+drop/drɔp/капля, падать, ронять
+draw/drɔ:/рисовать
+read/ri:d/читать
+run/rʌn/бегать, двигаться, бег, движение, направление
+scratch/skræʧ/царапать
+scream/skri:m/вскрикнуть, зареветь, визг, вопль (не shriek)
+smile/smail/улыбаться, улыбка
+sing/siŋ/пение, петь
+shout/ʃaut/кричать, крик
+shake/ʃeik/пожать (руки), дрожать, трясти
+whisper/'wispə/шепот, шептать
+whistle/'wɪsəl/свист, свистеть
+write/rait/писать, записывать
+soap/səup/мыло
+bug/bʌg/клоп, насекомое, жук (амер.)
+herring/'heriŋ/сельдь
+oil/ɔil/масло
+engine/'enʤin/двигатель, мотор, машина
+wheel/wi:l/колесо
+tyre/'taɪər/шина
+boot/bu:t/ботинок, сапог
+bonnet/'bɔnit/капор, дамская шляпа
+restrain/ris'trein/сдерживать
+piano/'pjænəu/пианино
+harp/hɑ:p/арфа
+bow/bau/кланяться, сгибаться
+string/striŋ/вереница, ряд, струна, связывать
+drum/drʌm/барабан
+trumpet/'trʌmpit/труба
+organ/'ɔ:gən/орган
+universe/'ju:nivə:s/мир, вселенная
+substance/'sʌbstəns/вещество
+science/'saiəns/наука, умение
+precision/pri'siʒən/точность
+stem/stem/стержень
+lily/'lili/лилия
+daisy/'deizi/маргаритка
+bulb/bʌlb/луковица, электрическая лампочка
+rose/rəuz/роза
+bud/bʌd/почка, бутон, давать почки, пускать ростки
+thorn/θɔ:n/шип, колючка (не prick)
+sunflower/'sʌn,flauə/подсолнух
+jumper/'ʤʌmpə/джемпер
+bed/bed/постель
+pillow/'piləu/подушка
+sheet/ʃi:t/простыня, лист, пласт
+blanket/'blæŋkit/одеяло
+mirror/'mirə/зеркало
+mattress/'mætris/матрац
+closet/'klɔzit/чулан
+diver/'daivə/водолаз
+engineer/,enʤi'niə/инженер
+cook/kuk/готовить, повар
+trainer/'treinə/тренер
+conductor/kən'dʌktə/кондуктор
+surgeon/'sə:ʤən/хирург
+building/'bildiŋ/здание
+store/stɔ:/магазин, имущество, запасать, снабжать
+bend/bend/гнуться, изгибаться
+clamp/klæmp/складывать, скреплять (не brace)
+wood/wud/лес, древесина, дрова
+outlet/'autlet/выход, выходное отверстие
+saw/sɔ:/видел, смотрел (от see)
+brace/breis/связывать, скреплять (не clamp)
+mallet/'mælit/деревянный молоток
+hammer/'hæmə/молоток
+hook/huk/крючок
+hatchet/'hæʧit/топор(ик)
+chisel/'ʧizl/резец, ваять, высекать
+level/levl/уровень
+bolt/bəʋlt/молния
+screw/skru:/привинчивать, завинчивать, принуждать, винт
+nut/nʌt/орех
+fee/fi:/гонорар, платить гонорар
+salary/'sæləri/оклад
+duration/djuə'reiʃən/продолжительность
+responsibility/ris,pɔnsə'biliti/ответственность
+bathroom/'bɑ:θrum/ванная комната
+toilet/'tɔilit/туалет
+kitchen/'kiʧin/кухня
+bookshelf/'bukʃelf/книжная полка
+dish/diʃ/блюдо
+law/lɔ:/закон, право
+bat/bæt/бить
+pony/'pəuni/пони
+horse/hɔ:s/лошадь
+foal/fəul/жеребенок
+lamb/læm/ягненок, баранина
+hog/hɔg/свинья, боров
+bull/bul/бык
+reed/ri:d/тростник, камыш (не cane)
+target/'tɑ:git/задание
+lobster/'lɔbstə/омар
+starling/'stɑ:liŋ/скворец
+cuckoo/n'kuku:/кукушка
+finger/'fiŋgə/палец
+gum/gʌm/смола, клей; склеивать(ся) (не tar)
+thumb/θʌm/большой палец (руки)
+index/'indeks/индекс, указатель, показатель
+notebook/'nəutbuk/тетрадь
+pencil/'pensil/карандаш
+ruler/'ru:lə/линейка, правитель
+bell/bel/звонок
+chalk/ʧɔ:k/мел
+compass/'kʌmpəs/объем, диапазон; компас; циркуль
+glue/glu:/клей; клеить, приклеивать
+paper/'peipə/бумага, газета
+complicated/'kɔmplikeitid/сложный
+flu/flu:/грипп
+stroke/strəuk/удар, гладить
+tall/tɔ:l/невероятный, высокий
+short/ʃɔ:t/короткий, слабый, внезапно
+slim/slim/стройный
+thin/θin/тонкий, худощавый
+fat/fæt/жирный
+bold/bəuld/смелый (не dare)
+moustache/məs'tɑ:ʃ/усы
+handsome/'hændsəm/красивый
+swift/swift/быстрый (не speed)
+fracture/'frækʧə/перелом, излом; ломать
+cold/kəuld/холод, холодный
+sneeze/sni:z/чихать, чиханье
+toes/tu:z/пальцы ноги(носки) (TR!)
+stuff/'stʌf/вещество, материал, заполнять, набивать
+learned/'lə:nt/ученый
+box/bɔks/ящик, коробка, ложа (театр.)
+fine/fain/прекрасно, прекрасный
+action/'ækʃən/действие, поступок
+tire/'taiə/уставать, надоесть
+bamboo/bæm'bu:/бамбук
+mulberry/'mʌlbəri/тутовое дерево (TR!)
+acacia/ə'keɪʃə/акация
+edible/'edibl/съедобный
+poisonous/'pɔiznəs/ядовитый
+home/həum/дом
+bald/bɔ:ld/лысый, оголенный
+blame/bleim/считать виноватым, вина, упрек, порицание
+attitude/'ætitju:d/позиция, отношение, поза
+particular/pə'tikjulə/особый
+origin/'ɔriʤin/происхождение
+sustain/səs'tein/поддерживать
+expectation/,ekspek'teiʃən/ожидание
+ticket/'tikit/билет
+porter/'pɔ:tə/носильщик
+suitcase/'s(j)u:tkeis/чемодан
+baggage/'bægiʤ/багаж
+cabin/'kæbin/каюта
+update/ʌp'deɪt/модернизация (TR!)
+updated/ʌp'deɪtɪd/обновленный (TR!)
+warehouse/'weər‚haʋz/склад, пакгауз
+check/ʧek/проверять, регистрировать
+remain/ri'mein/оставаться
+China/'ʧainə/фарфор
+pitcher/'piʧə/подающий
+table/teibl/стол, таблица, расписание
+napkin/'næpkin/салфетка, пеленка
+saucer/'sɔ:sə/блюдце
+ring/riŋ/кольцо, звон, звонок, звенеть, звонить
+chain/ʧein/цепь
+pin/pin/булавка, значок, прикалывать
+watch/wɔʧ/часы, cмотреть, наблюдать
+wallet/'wɒlɪt/бумажник
+handbag/'hændbæg/дамская сумочка
+test/test/анализ, проверка, испытывать
+dump/dʌmp/разгружать
+strange/streinʤ/странный
+foreign/'fɔrin/иностранный
+huge/hju:ʤ/огромный (не bulk)
+build/bild/строить
+whale/weil/кит
+walrus/'wɔ:lrəs/морж
+seal/si:l/печать, запечатывать
+running/'rʌniŋ/пробег, бегущий
+walking/'wɔ:kiŋ/гуляющий
+tennis/'tənis/теннис
+wrestle/'resl/бороться
+boxing/'bɔksiŋ/бокс
+football/'futbɔ:l/футбол
+swimming/'swimiŋ/плавание
+hen/hen/курица
+kid/kid/ребенок (разг.), обманывать (сленг.)
+secretary/'sekritəri/секретарь
+manager/'mænəʤə/управляющий
+envelope/'enviləup/конверт
+employee/,emplɔi'i:/служащий, работник
+employer/'emplɔiə/наниматель
+typewriter/'taɪp‚raɪtər/пишущая машинка
+cherry/'ʧeri/вишня
+banana/bə'nɑ:nə/банан
+bean/bi:n/боб
+sprout/spraut/пускать ростки; отросток, побег
+corn/kɔ:n/кукуруза
+after/'ɑ:ftə/после
+again/ə'gen/снова
+all/ɔ:l/все, весь
+also/'ɔ:lsəu/тоже, также
+always/'ɔ:lwəz/всегда
+and/ənd/и
+angrily/'æŋgrili/сердито (!NEW!)
+angry/'æŋgri/сердитый
+animal/'æniməl/животное
+another/ə'nʌðə/еще один, другой
+ask/ɑ:sk/просить, спрашивать
+at/ət/в, у
+consider/kən'sidə/считать
+crowd/kraud/толпа, толпиться
+care/kɛə/заботиться, переживать
+guess/ges/отгадывать, догадка
+glance/glɑ:ns/взглянуть, мелькнуть
+rise/raiz/подниматься, восходить, подъем, повышение
+pick/pik/собирать, подбирать, выбирать
+happen/hæpn/случаться, происходить
+handy/'hændi/удобный; ловкий, искусный
+occupation/,ɔkju'peiʃn/занятие
+respect/ris'pekt/уважение, уважать
+faith/feiθ/вера
+recognize/'rekəgnaiz/узнавать, узнать
+coral/'kɔrəl/коралл (TR!)
+a/ə/неопределенный артикль
+shark/ʃɑ:k/акула
+abandon/ə'bændən/отказываться, покидать, прекращать
+ability/ə'biliti/способность (-y не от слова capable)
+able/'eibl/способный (-e)
+shrimp/ʃrimp/креветка
+aboard/ə'bɔ:d/на корабле, на борту, в вагоне
+about/ə'baut/о
+above/ə'bʌv/над, выше, наверху
+abruptly/ə'brʌptlɪ/внезапно, резко, грубо
+absolutely/'æbsəlu:tli/абсолютно, совершенно
+accent/'æksənt/подчеркивать, произносить
+accept/ək'sept/принимать
+access/'ækses/доступ, подход, доступность
+accident/'æksidənt/несчастный случай
+accompany/ə'kʌmpəni/сопровождать
+according/ə'kɔ:diŋ/согласно
+account/ə'kaunt/счет, оценка, причина
+across/ə'krɔs/через
+act/ækt/акт, дело, действовать
+activity/ək'tiviti/деятельность, активность
+Actually/'ækʧuəli/фактически, в настоящее время
+add/æd/добавлять, прибавлять
+address/ə'dres/адрес, обращение
+adjust/ə'ʤʌst/регулировать, приспосабливать
+admiral/'ædmərəl/адмирал
+admire/əd'maiə/восхищаться
+admit/əd'mit/допускать
+advance/əd'vɑ:ns/продвижение вперед, продвигать
+advantage/əd'vɑ:ntiʤ/преимущество, выгода
+advice/əd'vais/cовет
+affair/ə'fɛə/дело, занятие
+afford/ə'fɔ:d/позволить себе
+afraid/ə'freid/испуганный
+afternoon/'ɑ:ftə'nu:n/время после полудня
+against/ə'geinst/против
+age/eiʤ/век, возраст
+agency/'eiʤənsi/агентство
+agent/'eiʤənt/деятель, исполнитель
+agree/ə'gri:/соглашаться
+agreement/ə'gri:mənt/согласие, соглашение
+ahead/ə'hed/вперед
+aid/eid/помощь
+aim/eim/целиться, цель
+air/ɛə/воздушный, авиационный, проветривать
+airport/'ɛəpɔ:t/аэропорт
+alarm/ə'lɑ:m/тревога, (вс)тревожить (alarm)
+alert/ə'lə:t/бдительный, проворный
+Alive/ə'laiv/живой
+alley/'æli/аллея, переулок
+allow/ə'lau/разрешать, разрешить
+almost/'ɔ:lməust/почти, едва не
+alone/ə'ləun/один, одинокий
+along/ə'lɔŋ/вдоль
+alongside/ə'lɔŋ'said/рядом
+already/ɔ:l'redi/уже
+although/ɔ:l'ðəu/хотя
+am/æm/(я) есть (от be)
+wrinkle/'rɪŋkəl/морщина, морщить(ся)
+fist/fist/кулак
+heel/hi:l/пятка, каблук
+interest/'intrist/интересовать, заинтересовывать
+draft/dra:ft/чертеж, проект
+maker/'meikə/производитель
+bearer/'bɛərə/носитель, податель, предъявитель
+mortgage/'mɔ:giʤ/заклад, залог
+transfer/trəns'fə:/передача, переносить
+loan/ləun/заём, ссуда
+cover/'kʌvə/покрывало, крышка
+galaxy/'gæləksi/галактика (TR!)
+star/stɑ:/звезда
+constellation/,kɔnstə'leiʃən/созвездие
+sun/sʌn/солнце
+moon/mu:n/луна
+planet/'plænit/планета
+mercury/'mə:kjuri/ртуть
+Venus/'vi:nəs/венера (TR!)
+earth/ə:θ/земля
+dragon/'drægən/дракон ((!NEW!))
+fairy/'fɛəri/волшебный
+ghost/gəust/привидение, дух
+giant/'ʤaiənt/гигант, гигантский
+king/kiŋ/король
+monster/'mɔnstə/чудовище
+pirate/'paiərit/пират
+prince/prins/принц
+princess/prin'ses/принцесса (TR!)
+queen/kwi:n/королева
+skeleton/'skelitn/скелет, остов
+wizard/'wɪzərd/колдун, специалист своего дела (!NEW!)
+curve/kə:v/изгиб, гнуть
+square/skwɛə/площадь, квадратный
+circle/sə:kl/амфитеатр, круг
+diameter/dai'æmitə/диаметр
+arc/ɑ:k/дуга (мат.)
+circumference/sə'kʌmfərəns/окружность
+apex/'eipeks/верхушка, вершина (не peak)
+pyramid/'pirəmid/пирамида
+depth/depθ/глубина
+height/hait/высота
+width/widθ/ширина
+length/leŋθ/длина
+broom/bru:m/метла, мести
+iron/'aiən/железо, утюг
+mop/mɔp/швабра, подтирать
+bleach/bli:ʧ/белить (ткань)
+ammonia/ə'məunjə/аммиак
+wax/wæks/воск, восковой
+cream/kri:m/сливки, крем
+vote/vəut/голос (на выборах), голосование, голосовать
+plot/plɔt/заговор
+Obviously/'ɒbvɪəslɪ/очевидно
+repel/ri'pel/отталкивать, внушать отвращение
+sufficient/sə'fiʃənt/достаточный
+failure/'feiljə/неудача
+occur/ə'kə:/случаться
+resemble/ri'zembl/походить
+beans/bi:nz/фасоль
+date/deit/дата
+happy/'hæpi/счастливый
+feelings/'fi:liŋz/страсти (от feeling)
+event/i'vent/событие
+unhappy/ʌn,hæpi/несчастный, неудачный (unhappy)
+violence/'vailəns/сила, неистовство, насилие
+died/dɪd/умер, умерший (от die)
+hungry/'hʌŋgri/голодный (не от слова starve)
+melancholy/'melənkəli/меланхолия (TR!)
+sad/sæd/печальный
+sorrowful/'sɔrəful/печальный, скорбный
+unfortunate/ʌn'fɔ:ʧnit/несчастный человек, горемыка
+rear/riə/задняя часть
+themselves/ðəm'selvz/себя, себе
+gesture/'ʤesʧə/жест
+expression/iks'preʃn/выразительность, выражение
+roar/rɔ:/реветь, орать, хохотать
+pop/pɔp/поп, популярный
+however/hau'evə/однако
+dozen/'dʌzn/дюжина
+crew/kru:/судовая команда, экипаж
+present/preznt/настоящее время, подарок, настоящий, присутствующий
+doubt/daut/сомнение, сомневаться
+settle/setl/поселять, устраивать, оплачивать
+grip/grip/схватывание
+completely/kəm'pli:tli/совершенно, полностью
+nearly/'niəli/почти, приблизительно (не almost)
+pair/pɛə/пара
+gather/'gæðə/собираться
+sweat/swet/пот, потеть
+statue/'stætju:/статуя, памятник
+fountain/'fauntin/источник, фонтан
+bars/bɑ:rz/бруски(бары) (TR!)
+slide/slaid/скользить
+bush/buʃ/куст
+tree/tri:/дерево (tree)
+grass/grɑ:s/трава
+buffalo/'bʌfələu/буйвол
+hedgehog/'heʤhɔg/еж
+barge/bɑ:ʤ/баржа
+boat/bəut/лодка, пароход
+canoe/kə'nu:/челн, байдарка
+caravan/'kærəvæn/фургон
+ferry/'feri/перевоз
+yacht/jɒt/яхта
+ship/ʃip/корабль, пароход, грузить, перевозить
+drain/drein/вытекание
+stopper/'stɔpə/пробка, затычка
+tile/tail/черепица, кафель
+shower/'ʃauə/душ, ливень
+thread/θred/нитка
+material/mə'ti(ə)riəl/материал
+seam/si:m/шов
+hem/hem/рубец, кромка, кайма; подшивать, подрубать
+snap/snæp/щелкать (snap)
+needle/ni:dl/игла
+thimble/'Ɵɪmbəl/наперсток, наконечник
+embroidery/im'brɔidəri/вышивка
+speedometer/spi:'dɒmɪtər/спидометр
+horn/hɔ:n/рог, забодать
+ignition/ig'niʃ(ə)n/зажигание, воспламенение
+vent/vent/выпускать, испускать
+mat/mæt/коврик (не rug)
+clutch/klʌʧ/захват (не snatch)
+brake/breik/тормоз
+jack/ʤæk/домкрат
+hood/hud/капюшон, капор, колпак, крышка (тех.)
+headlight/'hedlait/фара (автомобиля), огни (паровоза)
+radiator/,reidi'eitə/радиатор
+battery/'bætəri/аккумулятор
+windfall/'wɪndfɔ:l/неожиданная удача
+smash/smæʃ/бить, разбивать
+violently/'vailəntlɪ/неистово
+withdraw/wɪð'drɔ:/брать назад, забирать
+builder/'bildə/строитель
+ladder/'lædə/лестница (не stairs)
+rung/rʌŋ/ступенька, спица колеса
+cement/si'ment/цемент, основа
+foundation/faun'deiʃən/основание
+brick/brik/кирпич
+board/bɔ:d/садиться на пароход, самолет; доска
+wheelbarrow/'wi:l‚bærəʋ/тачка
+detective/di'tektiv/детектив(ный)
+suspect/səs'pekt/подозревать
+gun/gʌn/ружье, пушка
+judge/ʤʌʤ/судья
+witness/'witnis/свидетель
+jury/'ʤuəri/присяжные, жюри
+petrol/'petrəl/бензин
+gasoline/'gæsəuli:n/газолин, бензин (амер.)
+aerial/'ɛəriəl/воздушный, антенна
+attachment/ə'tæʧmənt/привязанность, прикрепление
+vanity/'væniti/тщеславие
+incomprehensible/in'kɔmpri'hensəbl/непонятный, непостижимый
+apron/'eipr(ə)n/фартук
+hockey/'hɔki/хоккей
+fencing/'fensiŋ/ограждение
+flora/'flɔ:rə/флора (TR!)
+cell/sel/камера, ячейка
+evolution/,i:və'lu:ʃən/развитие (TR!)
+creation/kri'eiʃ(ə)n/создание (похоже на creature)
+family/'fæmili/семья
+species/'spi:ʃi:z/порода
+oxygen/'ɔksiʤən/кислород
+grammar/'græmə/грамматика
+spell/spel/писать или произносить (слово) по буквам
+spelling/'speliŋ/орфография, правописание
+article/'ɑ:tikl/статья, предмет, изделие
+word/wə:d/слово, обещание
+sentence/'sentəns/предложение
+phrase/freiz/фраза
+syllable/'siləbl/слог
+subject/'sʌbʤikt/предмет, содержание, подчинять
+predicate/'predikit/сказуемое (грам.)
+object/'ɔbʤikt/возражать, предмет
+case/keis/случай, состояние
+tense/tens/время (грам.)
+mood/mu:d/настроение
+voice/vɔis/голос
+dialect/'daiəlekt/диалект (TR!)
+rule/ru:l/правило, принцип, норма, управлять, решать
+exception/ik'sepʃn/исключение
+temperature/'tempriʧə/температура
+headache/'hedeik/головная боль
+rash/ræʃ/стремительный, поспешный, опрометчивый; сыпь
+pain/pein/боль, страдание
+sick/sik/больной
+hurt/hə:t/рана, болеть, причинить боль, повредить
+unconscious/ʌn'kɒnʃəs/бессознательный
+sore/sɔ:/больной, воспаленный (не sick)
+faint/feint/слабый
+dizzy/'dɪzɪ/головокружительный
+twist/twɪst/вить(ся), крутить, скручивать
+burn/bə:n/гореть, жечь, сжигать
+Bruise/bru:z/ушибать, синяк, ушиб
+medicine/'medsin/медицина, лекарство
+stitch/stiʧ/стежок, петля (в вязании), шить
+drug/drʌg/лекарство, наркотик
+wound/wu:nd/рана
+bandage/'bændiʤ/бинт, повязка, перевязывать, бинтовать
+wife/waif/жена
+husband/'hʌzbənd/муж
+mother/'mʌðə/мама
+father/'fɑ:ðə/папа
+daughter/'dɔ:tə/дочь
+son/sʌn/сын
+sister/'sistə/сестра
+brother/'brʌðə/брат
+baby/'beibi/ребенок
+grandmother/'grændmʌðə/бабушка
+grandfather/'grændfɑ:ðə/дедушка
+grandson/'grændsʌn/внук
+aunt/ɑ:nt/тетя
+uncle/ʌŋkl/дядя
+niece/ni:s/племянница
+nephew/'nevju:/племянник
+cousin/kʌzn/двоюродный брат
+stationery/'steiʃnəri/писчебумажные принадлежности
+folder/'fəuldə/папка (для дел), брошюра (амер.)
+strawberry/'strɔ:bəri/земляника
+raspberry/'rɑ:zbəri/малина
+shift/ʃift/смена, перемещать
+tiring/'taiəriŋ/утомительный
+tough/tʌf/жесткий
+labour/'leibə/труд, трудиться
+capital/'kæpitl/столица
+stock/stɔk/запас, снабжать (не spare, hoard)
+handle/hænl/обращаться с, управлять (не manage)
+lean/li:n/прислоняться, наклоняться, наклон
+threaten/’Ɵretən/грозить, угрожать
+opportunity/,ɔpə'tju:niti/возможность
+announce/ə'nauns/объявлять
+sure/ʃuə/уверенный, убедиться, безусловно
+pressure/'preʃə/давление
+pleasure/'pleʒə/удовольствие
+surely/'ʃuəli/несомненно
+assure/ə'ʃuə/уверять, обеспечивать
+measure/'meʒə/мера
+treasure/'treʒə/сокровище
+deliver/di'livə/доставлять, передавать
+entirely/in'taiəli/совершенно, полностью, исключительно
+rapidly/'ræpidlɪ/быстро
+hesitate/'heziteit/колебаться
+bit/bit/кусочек, немного
+trolley/'trɔli/тележка
+cab/kæb/наемный экипаж, извозчик, такси
+steep/sti:p/крутой (не sharp)
+cram/kræm/запихивать, пичкать, учить наспех, натаскивать (к экзаменам) ( не poke)
+chemist/'kemist/химик, аптекарь
+seller/'selə/торговец (не trader)
+complaint/kəm'pleint/жалоба
+bargain/'bɑ:gin/сделка
+resign/ri'zain/уходить в отставку
+participate/pɑ:'tisipeit/участвовать
+disadvantage/,disəd'vɑ:ntiʤ/неудобство
+lumber/'lʌmbə/лесоматериалы
+crop/krɔp/урожай
+troops/tru:ps/войска
+brand/brænd/головня, клеймо, фабричная марка, сорт, клеймить
+advise/əd'vais/советовать
+anticipate/æn'tisipeit/предвидеть
+appreciate/ə'pri:ʃieit/оценивать
+avoid/ə'vɔid/избегать, избежать
+complete/cəm'pli:t/полный, законченный
+delay/di'lei/отсрочка
+deny/di'nai/отрицать, отвергать
+discuss/dis'kʌs/обсуждать
+dislike/dis'laik/нелюбовь, неприязнь; не любить
+beat/bi:t/ударить, бить
+bet/bet/держать пари, пари
+absorb/əb'sɔ:b/поглощать, всасывать, впитывать
+toast/təust/тост (жар. хлеб), сушить
+swig/swig/потягивать вино
+enjoy/in'jɔi/любить, получать удовольствие
+excuse/iks'kju:s/извинять
+fancy/'fænsi/воображать, представлять себе
+finish/'finiʃ/кончать(ся), заканчивать(ся), конец, финиш
+forget/fə'get/забыть
+imagine/imæʤin/думать, воображать
+involve/in'vɔlv/втягивать, вовлекать
+mind/maind/память, мнение, помнить, возражать
+miss/mis/промах, промахнуться, пропустить, скучать
+postpone/pəust'pəun/отсрочивать
+practise/'præktis/заниматься
+quit/kwit/прекращать
+recall/ri'kɔ:l/припомнить, отозвать
+recollect/,rekə'lekt/припоминать
+regret/ri'gret/жалеть
+remember/ri'membə/помнить
+resent/ri'zent/обижаться, возмущаться
+resist/ri'zist/сопротивляться
+risk/risk/риск, рисковать
+harsh/hɑ:ʃ/грубый, резкий (не sharp)
+feeble/'fi:bl/слабый, бледный
+juvenile/'ʤu:vinail/юноша, подросток
+misery/'mizəri/страдания, нищета
+destitute/'destitju:t/сильно нуждающийся
+endless/'endlis/бесконечный
+parents/'pɛərənts/родители (от parent)
+relative/'relətiv/родственник
+trick/trik/хитрость, обман, обманывать
+fake/feik/подделка (!NEW!)
+anxious/'æŋkʃəs/беспокойный
+hover/'hɔvə/парить, вертеться
+pitch/piʧ/бросок, уровень, сооружать
+circuit/'sə:kit/кругооборот, окружность
+score/skɔ:/счет, отметка, выигрывать
+selfish/'selfiʃ/эгоистичный
+jealous/'ʤeləs/ревнивый
+affectionate/ə'fekʃnit/любящий, нежный
+charming/'ʧɑ:miŋ/очаровательный, прелестный
+independent/,indi'pendənt/независимый
+reliable/ri'laiəbl/надежный
+sensible/'sensəbl/разумный
+sensitive/'sensətiv/чувствительный
+sociable/'səuʃəbl/общительный
+mean/mi:n/означать
+insecure/,insi'kjuə/ненадежный, небезопасный (insecure)
+lazy/'leizi/ленивый
+shy/ʃai/застенчивый, робкий
+patient/'peiʃənt/пациент, терпеливый
+responsible/ris'pɔnsəbl/ответственный
+tidy/'taidi/чистый, аккуратный, убирать, приводить в порядок
+mentally/'mentəli/умственно
+weird/wɪərd/судьба, рок, таинственный, странный
+turn/tə:n/поворачивать, вращать, оборот, поворот, очередь
+false/fɔ:ls/ложный
+true/tru:/правильный, верный
+figure/'figə/фигура
+soul/səul/душа, воплощение
+fight/fait/бороться, бой
+strict/strikt/точный
+stuffy/'stʌfi/душный
+meat/mi:t/мясо, мясной
+ham/hæm/ветчина
+pork/pɔ:k/свинина
+beef/bi:f/говядина
+sausage/sɔ:siʤ/колбаса, сосиска
+milk/milk/молоко
+cheese/ʧi:z/сыр
+bread/bred/хлеб
+butter/'bʌtə/масло
+sugar/'ʃugə/сахар
+pie/pai/пирог
+salt/sɔ:lt/соль, соленый, солить
+soup/su:p/суп
+millet/'milit/просо, пшено
+sandwich/'sænwiʧ/бутерброд
+regarding/ri'gɑ:diŋ/относительно
+gain/gein/прибыль
+essential/i'senʃ(ə)l/обязательный, существенный, важный
+deceptive/di'septiv/обманчивый
+flood/flʌd/наводнение
+grasp/grɑ:sp/понять, схватить
+aware/ə'wɛə/сознающий
+stop/stɔp/остановка, перестать, остановиться
+suggest/sə'ʤest/предлагать, советовать
+tolerate/'tɔləreit/терпеть
+understand/,ʌndəstænd/понимать, подразумевать
+riddle/ridl/загадка (не enigma)
+accuse/ə'kju:z/обвинять
+congratulate/kæn'grætjuleit/поздравлять
+prevent/pri'vent/предотвращать, препятствовать
+thank/θæŋk/благодарить
+forgive/fə'giv/прощать
+warn/wɔ:n/предупреждать
+growth/grəuθ/рост
+impact/n'impækt/удар (не stroke)
+ample/'æmpl/обширный, просторный
+fair/fɛə/любезно, хорошо, справедливый
+offensive/ə'fensiv/наступление
+appalling/ə'pɔ:liŋ/ужасный, плачевный
+dwarf/dwɔ:f/карлик, гном (миф.) (не gnome)
+elf/elf/Эльф (TR!)
+dormitory/'dɔ:mitri/спальня
+shelter/'ʃeltə/приют, убежище
+business/'biznis/дело, бизнес, деловой
+rug/rʌg/ковер
+floor/flɔ:/пол, этаж; одолеть, смутить
+court/kɔ:t/корт, двор
+thief/θi:f/вор
+arson/'ɑ:sn/поджог
+approach/ə'prəuʧ/приближаться, подступ
+vaguely/'veɪglɪ/неопределенно (TR!)
+refuge/'refju:ʤ/убежище
+violent/'vailənt/яростный
+accommodation/ə,kɔmədeiʃn/удобство, согласование
+row/rəu/грести
+seat/si:t/место, сиденье, сажать, усаживать
+married/'mærid/женатый, замужняя
+single/siŋgl/один, одинокий
+habits/'hæbits/привычки (TR!)
+long/lɔŋ/длинный, долгий, долго
+heavy/'hevi/тяжелый
+early/'ə:li/рано
+late/leit/поздно
+slow/sləu/медленный, замедлять
+fast/fɑ:st/спешащий, сильно, быстро (fast)
+safe/seif/сейф, безопасный, надежный
+dangerous/'deinʤərəs/опасный
+big/big/большой
+small/smɔ:l/маленький, тонкий, скромный
+hot/hɔt/горячий
+narrow/'nærəu/узкий
+wide/waid/широкий
+alas/ə'læs/увы (TR!)
+Ginny
+ 
+гинни (TR!)
+Hedwig
+ 
+Хедвиг (TR!)
+shape/ʃeip/форма
+expressive/iks'presiv/выразительный
+skinny/'skini/худой, тощий, кожа да кости (!NEW!)
+plump/plʌmp/пухлый, полный (не swell)
+bust/bʌst/бюст
+acquisition/,ækwi'ziʃən/приобретение
+rare/rɛə/редкий, недожаренный
+assistant/ə'sistənt/помощник
+current/'kʌrənt/течение, ток
+purchase/'pə:ʧəs/покупка, покупать
+subscription/səb'skripʃən/подписка
+lend/lend/дать в долг
+permanently/'pə:mənəntli/постоянно
+deliberately/di'libəritli/сознательно, обдуманно ((!NEW!))
+privacy/'privəsi/уединенность
+host/həust/хозяин
+impatient/im'peiʃənt/нетерпеливый
+numb/nʌm/онемелый, оцепенелый (не dumb, )
+offence/ə'fens/обида
+ban/bæn/запрещать
+old/əuld/старый
+new/nju:/новый
+lovely/'lʌvli/прекрасный, восхитительный
+interesting/'intristiŋ/интересный
+bad/bæd/плохой
+expensive/iks'pensiv/дорогой
+cheap/ʧi:p/дешевый
+great/greit/великий
+difficult/'difikəlt/трудный
+easy/'i:zi/легкий, простой
+boring/'bɔ:riŋ/скучный
+simple/simpl/простой, однозначный
+friendly/'frendli/дружеский, дружелюбный
+various/'vɛəriəs/различный, разный
+limited/'limitid/ограниченный
+modern/'mɔdən/современный
+each/i:ʧ/каждый
+terrible/'terəb(ə)l/ужасный, страшный
+wet/wet/мокрый
+comfortable/'kʌmfətəbl/удобный
+steel/sti:l/сталь
+thereby/'ðɛə'bai/таким образом
+consequences/'kɔnsikwənsiz/последствия (TR!)
+hasty/'heisti/поспешный, необдуманный
+debt/det/долг
+socket/'sɔkit/патрон (эл. лампочки), глазная впадина
+cinema/'sinimə/кино
+innocent/'inəsənt/наивный, невинный
+bloom/blu:m/цветение
+lack/læk/недостаток
+order/'ɔ:də/порядок, приказ, заказ, заказывать, приказывать
+tips/tips/наконечники(чаевые) (TR!)
+careless/'kɛəlis/беззаботный
+flee/fli:/бежать
+puddle/pʌdl/лужица, смущать, барахтаться в воде
+futile/'fju:tail/бесполезный, тщетный, пустой (о человеке)
+weep/wi:p/плакать
+distress/dis'tres/горе, нужда; огорчать, расстраивать
+pressing/'presiŋ/срочный, настойчивый
+gooseberry/'guzberi/крыжовник
+novel/'nɔv(ə)l/роман
+textbook/'tekstbuk/учебник
+handbook/'hændbuk/справочник, руководство (не guidance)
+appendix/ə'pendiks/приложение, аппендикс (анат.)
+supplement/n'sʌplimənt/добавление
+chapter/'ʧæptə/глава (книги)
+introduction/,intrə'dʌkʃən/введение
+evaluation/i,vælju'eiʃən/оценка (не estimation)
+parent/'pɛərənt/родитель, родственник
+prisoner/'priznə/заключенный
+victim/'viktim/жертва
+untidy/ʌn''taidi/неаккуратный
+disgrace/dis'greis/позор, немилость
+tournament/'tuənəmənt/турнир
+competition/,kɔmpi'tiʃn/соревнование
+lap/læp/подол
+jet/ʤet/струя (воды, пара, газа)
+diamond/'daiəmənd/алмаз, бриллиант
+ruby/'ru:bi/рубиновый
+amber/'æmbə/янтарь, янтарный
+pearl/pə:l/жемчуг, жемчужный
+gem/ʤem/драгоценный камень
+prefer/pri:fə:/предпочитать
+abide/ə'baid/ждать, терпеть
+desire/di'zaiə/желание
+concede/kən'si:d/уступать, допускать
+request/ri'kwest/просьба
+demand/di'mɑ:nd/требовать
+regard/ri'gɑ:d/взгляд, внимание, смотреть, считать
+effort/'efət/усилие, напряжение
+generous/'ʤenərəs/великодушный
+area/'ɛəriə/площадь, район
+repeat/ri'pi:t/твердить, говорить наизусть
+tackle/'tækl/хватать
+install/in'stɔ:l/водворять, устраивать, устанавливать
+resume/ri'zju:m/итог, сводка, возобновлять, подводить итог
+produce/prə'dju:s/производить
+explain/iks'plein/объяснять
+both/bəuθ/оба
+recent/'ri:s(ə)nt/недавний
+input/'input/вход (TR!)
+owe/əu/быть должным
+appear/ə'piə/появляться
+trouble/trʌbl/неприятность, беда, беспокоить(ся), волноваться
+hour/'auə/час
+sign/sain/подписывать(ся), знак, вывеска
+spot/spɔt/пятно
+luxury/'lʌkʃəri/роскошь
+coincidence/kəu'insidəns/совпадение
+inhabitant/in'hæbitənt/житель
+device/di'vais/прибор, схема, проект, прием, устройство
+means/mi:nz/средство, способ
+resource/ri'sɔ:s/ресурс, средство
+tear/tɛə/слеза, разрыв, (по)рвать
+spray/sprei/брызги, обрызгивать
+gear/giə/механизм
+habit/'hæbit/привычка
+succession/sək'seʃən/последовательность
+breast/brest/грудь
+toe/təu/палец
+month/mʌnθ/месяц
+personal/'pə:snl/личный
+success/sək'ses/успех, удача
+statement/'steitment/утверждение, заявление
+delivery/di'livəri/доставка
+share/ʃɛə/разделять, доля, часть
+connect/kə'nekt/соединять
+notice/'nəutis/извещение, сообщение, замечать, обращать внимание
+nod/nɔd/кивать головой, кивок
+create/kri:'eit/создавать
+offend/ə'fend/обижать, обидеть
+possess/pə'zes/обладать
+behave/bi'heiv/вести себя
+efficient/i'fiʃənt/эффективный
+average/'ævəriʤ/средний
+financial/fai'nænʃəl/финансовый
+commercial/kə'mə:ʃəl/торговый
+common/'kɔmən/общий
+empty/'empti/пустой
+successful/sək'sesful/удачный, успешный
+calmly/'kɑ:mli/тихо, спокойно (!NEW!)
+politely/pə'laitli/вежливо (!NEW!)
+warily/'wærəlɪ/осторожно
+firmly/fə:mli/твердо, решительно
+sadly/sædlɪ/печально
+cautiously/'kɔ:ʃəslɪ/осторожно ((!NEW!))
+swiftly/swiftlɪ/быстро (!NEW!)
+anxiously/'æŋkʃəsli/тревожно ((!NEW!))
+carefully/'kɛəfli/осторожно, внимательно
+document/'dɔkjumənt/документ
+racing/'reisiŋ/гоночный (
+quay/ki:/набережная
+mansion/'mænʃən/дворец
+picturesque/,pikʧə'resk/живописный
+dusty/'dʌsti/пыльный
+vicious/viʃəs/порочный
+bully/'buli/запугивать (не scare)
+sweetheart/'swi:thɑ:t/возлюбленный(ая), дорогой(ая) (как обращение)
+incredible/in'kredəbl/невероятно
+wealth/welθ/богатство
+invade/in'veid/вторгаться
+stare/stɛə/пристальный взгляд
+reason/ri:zn/причина, довод, разум, рассудок
+complain/kəm'plein/жаловаться
+notorious/nəu'tɔ:riəs/известный, отъявленный
+willingly/wilɪ/охотно
+frequently/fri:kwəntlɪ/часто
+former/'fɔ:mə/бывший
+similar/'similə/похожий
+achievement/ə'ʧi:vmənt/выполнение, достижение
+fluently/'flu:əntli/бегло, гладко
+acquit/ə'kwit/оправдывать
+robbery/'rɔbəri/грабеж
+swindle/'swindl/обман, обманывать, надувать (не deceive)
+murder/'mə:də/убийство
+punishment/'pʌniʃmənt/наказание
+evidence/'evidəns/доказательство
+indirect/,indi'rekt/косвенный
+bar/bɑ:/бар
+dock/dɔk/док, пристань
+robber/'rɔbə/грабитель
+convict/kən'vikt/признать виновным, осудить
+cache/kæʃ/тайник (TR!)
+dove/dʌv/голубь
+lark/lɑ:k/жаворонок
+falcon/'fɔ:lkən/сокол
+heron/her(ə)n/цапля
+Germany/'dʒɜ:rmənɪ/германия (TR!)
+abominable/ə'bɔminəbl/отвратительный, противный
+extension/iks'tenʃən/расширение
+design/di'zain/проектировать, спроектировать
+bottom/'bɔtəm/дно, донышко; нижняя часть
+application/,æpli'keiʃn/заявление, применение
+miscellaneous/,misi'leinjəs/смешанный, разнообразный
+top/tɔp/верх, верхушка
+hairpin/'hɛəpin/шпилька
+brooch/brəuʧ/брошь
+existence/ig'zist(ə)ns/существование
+abrupt/ə'brʌpt/резкий, внезапный, крутой, обрывистый
+absence/'æbsəns/отсутствие
+absent/'æbsənt/отсутствующий
+abundance/ə'bʌndəns/богатство, изобилие
+acclaim/ə'kleim/провозглашать
+advertise/'ædvətaiz/помещать объявление, рекламировать
+data/'deitə/данные, факты
+music/'mju:zik/музыка
+yes/jes/да
+no/nəu/нет, никакой
+please/pli:z/пожалуйста (только в просьбе)
+my/mai/мой, моя, мое, мои
+your/jɔ:/ваш, твой
+his/hiz/его (
+her/hə:/ее, ей
+our/'auə/наш
+their/ðɛə/их (на вопрос "чей?")
+who/hu:/кто
+what/wɔt/что, какой
+where/wɛə/где, куда
+when/wen/когда
+why/wai/почему
+which/wiʧ/который
+accomplish/ə'kɔmpliʃ/выполнять
+patience/'peiʃəns/терпение
+decent/'di:s(ə)nt/приличный, скромный
+conduct/kən'dʌkt/вести, руководитель, проводить
+identify/ai'dentifai/опознавать, распознавать; устанавливать личность
+center/'sentə/центр
+variable/'veərɪəbəl/изменчивый, непостоянный
+earn/ə:n/зарабатывать
+exert/ig'zə:t/напрягать(силы)
+compete/kəm'pi:t/состязаться, конкурировать
+edge/eʤ/край, точить
+boots/bu:ts/ботинки, сапоги (от boot)
+tail/teil/конец, хвост
+bride/braid/невеста
+glacier/'glæsjə/ледник, глетчер
+slope/sləup/склон, наклон, гора для катания
+nostrils/'nɔstrilz/ноздри (TR!)
+teeth/ti:θ/зубы
+whiskers/'wɪskərz/бакенбарды, усы (у животных)
+Eugene/ɜ:'ʒen/Юджин (TR!)
+Paul/pɔ:l/пол (!NEW!)
+peter/'pi:tər/питер (TR!)
+Ted/ti:d/раскидывать
+Nat
+ 
+нат (TR!)
+noble/'nəub(ə)l/благородный, знатный
+either/'aiðə/или
+wise/waiz/мудрый
+beyond/bi'jɔnd/далеко, вдали, на расстоянии, вне, сверх
+cosy/'kəuzi/уютный
+bless/bles/благословлять
+seek/si:k/искать (не find)
+weak/wi:k/слабый
+purpose/'pə:pəs/цель
+weakness/'wi:nkis/слабость
+man/mæn/мужчина, человек
+woman/'wumən/женщина
+boy/bɔi/мальчик, юноша
+girl/gə:l/девочка, девушка
+bird/bə:d/птица
+grimly/grimlɪ/жестоко, решительно (!NEW!)
+eagerly/'i:gəlɪ/охотно (не willing)
+gently/'ʤentli/мягко, кротко
+frantically/'fræntɪklɪ/неистово (!NEW!)
+sternly/stə:nlɪ/строго (!NEW!)
+sharply/'ʃɑ:rplɪ/резко
+urgently/'ə:ʤəntlɪ/срочно
+bravely/breivlɪ/смело
+luckily/'lʌkili/к счастью
+hurriedly/'hʌridlɪ/поспешно (!NEW!)
+faithfully/'feiθfuli/искренне (TR!)
+gradually/'grædjəli/постепенно
+proudly/'praudli/гордо
+water/'wɔ:tə/вода, поливать, разбавлять
+bathe/beið/купаться
+bank/bæŋk/банк
+degree/di'gri:/степень, звание
+rain/rein/дождь
+snow/snəu/снег, падать (о снеге)
+hail/heil/приветствовать
+sunshine/'sʌnʃain/солнечный свет
+frost/frɔst/мороз
+thunder/'θʌndə/гром, греметь
+lightning/'laitniŋ/молния
+heat/hi:t/жара
+wind/wind/ветер, виток, виться, наматывать
+fog/fɔg/туман
+ice/ais/лед
+icicle/'aisikl/сосулька
+cloud/klaud/облако
+mist/mist/дымка
+thaw/θɔ:/оттепель
+rainbow/'reinbəu/радуга
+hurricane/'hʌrikən/ураган
+storm/stɔ:m/буря, взрыв (не blast)
+whirlwind/'wɜ:rl‚wɪnd/вихрь
+boldly/'bəuldli/смело (TR!)
+joyfully/'ʤɔif(ə)lɪ/радостно
+desperately/'despərɪtlɪ/отчаянно ((!NEW!))
+seriously/'sɪrɪəslɪ/серьезно
+suddenly/'sʌdnli/внезапно, вдруг
+veil/veɪl/завеса, покрывало
+engagement/in'geiʤmənt/занятие
+invitation/,invi'teiʃn/приглашение
+guest/gest/гость
+champagne/ʃæm'pein/шампанское
+reception/ri'sepʃən/прием
+retire/ri'taiə/уходить, удаляться, оставлять должность
+fire/'faiə/огонь, пожар
+sack/sæk/мешок
+overtime/'əuvətaim/сверхурочные
+promotion/prə'məuʃən/поощрение
+wage/weiʤ/заработная плата
+pay/pei/платить, зарплата
+confirmed/kən'fə:md/подтвержденный (TR!)
+gap/gæp/брешь
+temporary/'tempərəri/временный
+recently/'ri:s(ə)ntli/недавно
+meanwhile/'mi:n'wail/тем временем, между тем
+fir/fə:/пихта, ель
+precisely/pri'saisli/точно
+task/tɑ:sk/задача
+fashion/fæʃn/мода
+while/wail/пока, в то время как, тогда как
+involved/in'vɔlvd/сложный
+eventually/i'venʧəli/в конечном счете, в конце концов
+supplies/sə'plaiz/запасы(поставки) (TR!)
+content/'kɔntent/содержание
+refuse/ri'fju:z/отказывать
+though/ðəu/хотя, несмотря на
+specifically/spi'sifiklɪ/специфически
+granted/grɑ:ntɪd/дарованный (!NEW!)
+royal/rɔiəl/королевский (не queen)
+least/li:st/наименьший, менее всего
+conceal/kən'si:l/скрывать, утаивать
+successive/sək'sesiv/последующий
+remains/ri'meinz/остается (TR!)
+emerged/i'mə:ʤd/появился (TR!)
+extend/iks'tend/продлевать, растягивать
+outbreak/'autbreik/взрыв, вспышка, начало (войны и т.п.)
+whether/'weðər/ли
+experienced/iks'piəriənst/опытный
+mild/maild/мягкий (не soft)
+treatment/'tri:tmənt/обращение, обработка
+shot/ʃɔt/попытка, выстрел
+surgery/'sə:ʤəri/хирургия, приемная хирурга
+disease/di'zi:z/болезнь
+smear/smiə/масляное пятно, пачкать, мазать
+drip/drip/капать
+prescription/pris'kripʃən/рецепт
+appointment/ə'pɔintmənt/условленная встреча
+drops/drɔps/снижения(капли) (TR!)
+syringe/'sirinʤ/шприц
+tax/tæks/налог
+rent/rent/брать напрокат, снимать жилье, квартирная плата
+bonus/'bəunəs/премия
+commission/kə'miʃən/комиссионные
+customer/'kʌstəmə/клиент
+cash/kæʃ/деньги
+contribution/,kɔntri'bju:ʃən/вклад
+remainder/ri'meində/остаток
+bill/bil/счет, законопроект
+profit/'prɔfit/прибыль
+transaction/træn'zækʃən/дело, сделка, ведение (дел), труды, протоколы (общества)
+clause/klɔ:z/предложение, статья
+code/kəud/код
+expense/iks'pens/расход
+cost/kɔst/стоить, стоил
+contract/'kɔntrækt/договор, контракт
+threw/θru:/бросал (не flung) (!NEW!)
+state/steit/государство, состояние
+copyright/'kɔpirait/авторское право
+masterpiece/'mɑ:stəpi:s/шедевр
+Probably/'prɔbəbli/вероятно (
+maintenance/'meintənəns/поддержание
+initially/i'niʃəli/вначале
+quote/kwəut/цитировать
+raise/reiz/поднимать, возвышать
+onto/'ɔntu/на (не upon)
+separate/a'seprit/отдельный
+otherwise/'ʌðəwaiz/иначе
+exciting/ik'saitiŋ/волнующий, великолепный
+day/dei/день
+night/nait/ночь
+year/jiə/год
+century/'senʧəri/столетие, век
+week/wi:k/неделя
+quarter/'kwɔ:tə/четверть, квартал
+morning/'mɔ:niŋ/утро
+evening/'i:vniŋ/вечер
+noon/nu:n/полдень
+midnight/'midnait/полночь
+minute/'minit/минута
+second/'səkənd/второй, помощник, секунда
+weekend/'wi:kend/выходные
+today/tə'dei/сегодня, теперь, современный
+tomorrow/tə'mɔrəu/завтра, назавтра
+yesterday/'jestədi/вчера
+winter/'wintə/зима
+summer/'sʌmə/лето, летний
+spring/spriŋ/весна
+welcome/'welkəm/желанный, гостеприимство
+house/haus/дом
+friend/frend/друг
+cock/kɔk/петух, задирать
+charge/ʧɑ:ʤ/плата, стоимость, взимать плату
+assassination/ə,sæsi'neiʃən/убийство
+gate/geit/ворота, проход
+balcony/'bælkəni/балкон
+roof/ru:f/крыша
+path/pɑ:θ/тропинка, беговая дорожка
+pavement/'peivmənt/тротуар (не sidewalk)
+chimney/'ʧimni/труба
+terrace/'terəs/терраса
+porch/pɔ:ʧ/крыльцо, (амер.) веранда, терраса
+ivory/'aivəri/слоновая кость
+lilac/'lailək/сирень, сиреневый
+crimson/'krimzn/алый, малиновый (не scarlet)
+proved/pru:vd/доказанный (TR!)
+swept/swept/подметал (!NEW!)
+despite/dis'pait/несмотря на
+carbon/'kɑ:bən/углерод
+copper/'kɔpə/медь
+helium/'hi:ljəm/гелий (TR!)
+lead/li:d/вести, руководить
+tin/tin/олово, жестянка, консервная банка
+interfere/,intəfiə/мешать
+emphasis/'emfəsɪs/подчеркивание, ударение, выразительность
+handling/'hændliŋ/обращение
+since/sins/с тех пор как
+loop/lu:p/петля
+drill/dril/дрель, тренировать
+file/fail/картотека
+blade/bleid/лезвие
+signature/'signiʧə/подпись
+section/sekʃn/отделение, делить на части
+storey/'stɔri/этаж
+mast/mɑ:st/мачта
+frame/freim/оправа, рамка
+member/'membə/член
+collapse/kə'læps/крушение, крах, рушиться, потерпеть крах
+concrete/'kɔnkri:t/бетон, сгущать, конкретный
+instance/'instəns/пример
+offer/'ɔfə/предлагать
+comparison/kəm'pærisn/сравнение
+provide/prə'vaid/обеспечивать
+implement/n'implimənt/выполнять
+shallow/'ʃæləu/мелкий, поверхностный, (от)мель
+explained/iks'pleind/объяснил (от explain)
+whole/həul/целый, весь, целое
+rather/'rɑ:ðə/скорее, лучше
+seize/si:z/хватать
+often/'ɔfn/часто
+seldom/'seldəm/редко
+rarely/'rɛəli/редко
+sometimes/,'sʌmtaimz/иногда
+usually/'ju:ʒuəli/обычно, обыкновенно
+sauce/sɔ:s/соус, приправа, поливать соусом
+vinegar/'vinigə/уксус
+further/'fə:ðə/дальнейший, дополнительный
+anniversary/,æni'və:s(ə)ri/годовщина
+pickles/'piklz/маринованные огурцы
+mallow/'mæləʋ/просвирник (TR!)
+mint/mint/мята
+call/kɔ:l/звонить, называть (call)
+even/'i:vən/даже
+thereafter/ðɛər'ɑ:ftə/после этого; впоследствии (не afterwards) (!NEW!)
+arrangements/ə'reinʤmənts/меры (не measurements) (TR!)
+required/ri'kwaiəd/потребованный (не demanded) (!NEW!)
+refer/ri'fə:/отсылать, ссылаться
+reflect/ri'flekt/отражать, размышлять
+deadlock/'dedlɔk/тупик, безвыходное положение
+prompt/prɔmpt/проворный, быстрый
+escape/is'keip/избежать, избегать
+James/ʤæmz/джеймс (TR!)
+Luke/lu:k/лук (TR!)
+plunge/plʌnʤ/нырять
+obvious/'ɔbviəs/очевидный
+excite/ik'sait/возбуждать, волновать
+stuck/stʌk/воткнул, приклеил (!NEW!)
+tease/ti:z/дразнить, задира
+whip/wɪp/кнут, хлыст, хлестать, сечь, взбивать (сливки, яйца)
+resolution/,rezə'lu:ʃən/решение, резолюция, решимость
+anew/ə'nju:/снова, заново
+exercise/'eksəsaiz/упражнение
+adapt/ə'dæpt/приспособить, переделать
+arch/ɑ:ʧ/арка, дуга
+traffic/'træfik/уличное движение
+road/rəud/дорога
+launch/lɔ:nʧ/начинать
+increase/in'kri:s/рост
+receive/ri'si:v/получать
+internal/in'tə:nl/внутренний
+experience/iks'piəriəns/опыт
+enthusiasm/in'θju:ziæz(ə)m/энтузиазм, восторг
+impression/im'preʃn/впечатление
+magazine/,mægə'zi:n/журнал
+being/'bi:iŋ/будучи (от be)
+eliminate/i'limineit/исключать, уничтожать, ликвидировать
+worth/wə:θ/стоящий, заслуживающий
+trace/treis/следить, чертить
+values/'væljuz/ценности (TR!)
+definitely/'defənɪtlɪ/определенно (TR!)
+deed/di:d/подвиг, дело
+dwell/dwel/жить
+could/kud/мог, могли (бы)
+conclusion/kən'klu:ʒ(ə)n/заключение
+acquire/ə'kwaiə/приобретать
+deeper/'di:pər/глубже (TR!)
+trend/trend/общее направление, тенденция
+thus/ðʌs/так, таким образом
+still/stil/все еще, однако, тихий
+correctly/kə'rektli/правильно, верно
+reject/ri'ʤekt/отвергать
+until/ʌn'til/до
+improve/im'pru:v/улучшать
+health/helθ/здоровье
+harm/hɑ:m/беда, неприятность
+intolerable/in'tɔlərəbl/невыносимый, нестерпимый
+learnt/lə:nt/узнал, выученный (от learn)
+bricks/briks/кубики (детские)
+besides/bi'saidz/кроме, кроме того
+use/ju:s/использовать, употребить, польза, применение
+malice/'mælis/злоба
+exasperation/ig,zɑ:spə'reiʃən/раздражение, ожесточение
+depression/di'preʃən/уныние, депрессия (эконом.)
+sorrow/'sɔrəu/печаль
+admiration/,ædmi'reiʃ(ə)n/восхищение
+delight/di'lait/восхищение, восхищаться
+let/let/позволять, давать, разрешать
+make/meik/делать, производить
+map/mæp/карта
+me/mi:/мне, меня
+plan/plæn/план, планировать
+take/teik/брать, взять, принимать
+tell/tel/говорить, рассказывать
+that/ðæt/это, тот, та, то
+them/ðem/их (на вопрос "кого?", "что?")
+bag/bæg/сумка
+book/buk/книга, покупать (билет)
+child/ʧaild/ребенок
+five/faiv/пять
+geology/ʤi'ɔləʤi/геология
+give/giv/давать
+good/gud/хороший, добрый, добро, польза
+in/in/в
+note/nəut/запись, записка, банкнота, записывать
+on/ɔn/на, вперед, дальше
+put/put/класть, размещать
+see/si:/(у)видеть, встретиться
+study/'stʌdi/учиться, изучать, заниматься, исследование, кабинет
+well/wel/хорошо, очень, добро, здоровый (не good)
+because/bi:'kɔ:z/потому что
+east/i:st/восток, восточный
+find/faind/найти, находить
+schedule/'skedju:l/расписание, таблица, планировать
+express/iks'pres/экспресс, выражать
+available/ə'veiləbl/доступный
+insist/in'sist/настаивать
+instead/in'sted/вместо, взамен
+shore/ʃɔ:/берег
+experiment/iks'periment/эксперимент
+majority/mə'ʤɔriti/большинство
+particularly/pə'tikjuləli/особенно, в особенности
+behind/bi'haind/позади
+naughty/'nɔ:ti/непослушный
+precise/pri'sais/точный
+brittle/'britl/хрупкий, ломкий (не fragile)
+furious/'fjuəriəs/взбешенный, бешеный, неистовый
+concept/'kɔnsept/концепция, понятие, идея
+overall/n'əuvərɔ:l/всеобщий
+utility/ju:'tɪlətɪ/полезность, выгодность, удобства, коммунальные услуги
+rate/reit/тариф, расценка, степень, оценивать
+item/'aitəm/вещь, предмет
+stiff/stif/негнущийся, застывший, холодный, натянутый
+ferocious/fə'rəuʃəs/дикий
+fierce/fiəs/свирепый
+bid/bid/предложение (TR!)
+threat/θret/угроза
+superior/sju:'piəriə/высший, лучший
+supposedly/sə'pəuzidli/предположительно
+mining/'mainiŋ/горный
+boost/bu:st/повышение, повышать
+pug/pʌg/мопс, моська, курносый нос
+adopt/ə'dɔpt/принимать, присваивать
+affairs/ə'feərz/делишки ((!NEW!))
+alike/ə'laik/похожий
+basement/'beismənt/основание
+cane/kein/трость, палка
+capture/'kæpʧə/захват, поймать
+carriage/'kæriʤ/вагон
+damp/dæmp/сырой, влажный
+dare/dɛə/сметь, отважиться
+dash/dæʃ/оттолкнуть, отбросить
+Deserve/di'zə:v/заслуживать
+eager/'i:gə/нетерпеливый
+elsewhere/'els'wɛə/в другом месте (TR!)
+encourage/in'kʌriʤ/ободрять, поощрять, подстрекать
+equal/'i:kwəl/равный
+abroad/ə'brɔ:d/за границей
+bath/bɑ:θ/ванна
+fail/feil/недоставать, не хватать; обмануть ожидания
+familiar/fə'miljə/близкий
+gang/gæŋ/шайка, банда
+gasp/gɑ:sp/задыхаться (не pant)
+injured/'inʤəd/поврежденный
+inn/in/гостиница, постоялый двор
+jerk/ʤə:k/резкий толчок, подергивание; резко толкать, дергать
+jewel/'ʤu:əl/драгоценность
+justice/'ʤʌstis/справедливость
+attractive/ə'træktiv/привлекательный
+disapproval/,disə'pru:vəl/неодобрение
+ideal/ai'diəl/идеал, идеальный
+persistent/pə'sist(ə)nt/настойчивый
+keyhole/'ki:həul/замочная скважина
+kidnap/'kidnæp/похищать (человека)
+lad/læd/мальчик, юноша, парень (не guy)
+marble/'mɑ:bl/мрамор
+nab/næb/курок
+nearby/'nɪərbaɪ/поблизости (nearby)
+overhear/,əuvə'hiə/подслушивать
+pal/pæl/приятель, товарищ, дружок
+pale/peil/бледный
+rage/reiʤ/гнев, ярость (не fury)
+ragged/'rægid/истрепанный, оборванный, рваный
+rag/ræg/тряпка, лохмотья
+rail/reil/рельс
+scar/skɑ:/шрам, рубец
+scared/skɛəd/напуганный (!NEW!)
+scheme/ski:m/проект
+tender/'tendə/нежный
+ugly/'ʌgli/уродливый
+ungrateful/ʌn''greitful/неблагодарный
+unless/ʌn'les/если не, пока не
+villain/'vɪlən/злодей, негодяй
+wag/wæg/махать, трясти
+wander/'wɒndər/бродить, блуждать
+yell/jel/пронзительный крик, кричать, вопить
+artful/'ɑ:tful/хитрый, ловкий
+attend/ə'tend/посещать, обслуживать
+attorney/ə'tə:ni/адвокат, поверенный (не advocate)
+beating/'bi:tiŋ/поражение
+beg/beg/просить, умолять
+beggar/'begə/нищий
+cellar/'selə/подвал, винный погреб
+certain/sə:tn/определенный, некоторый, некий
+chase/ʧeis/охотиться, преследовать, погоня, охота
+ditch/diʧ/канава
+drag/dræg/тащить
+hope/həup/надеяться
+attempt/ə'tempt/пробовать, пытаться, попытка
+expect/iks'pekt/ожидать
+vehicle/'vi:ikl/транспортное средство
+despair/dis'pɛə/отчаяние
+intend/in'tend/намереваться
+prepare/pri'pɛə/готовить(ся)
+tend/tend/иметь тенденцию
+claim/kleim/требовать
+learn/lə:n/узнать, учиться
+pretend/pri'tend/притворяться, делать вид
+want/wɔnt/хотеть, желать, нуждаться в
+decide/di'said/решать
+need/ni:d/нуждаться в, надо, нужда, потребность
+wish/wiʃ/желание, желать
+cycle/'saikl/цикл, период
+seem/si:m/казаться
+pleased/pli:zd/довольный
+usual/'ju:ʒuəl/обыкновенный, обычный
+prepared/pri'pɛəd/готовился, готовый (от prepare)
+hard/hɑ:d/с трудом, тяжело
+necessary/'nesisəri/нужный, необходимый
+important/im'pɔ:tənt/важный
+possible/'pɔsəbl/возможный
+famous/'feiməs/известный
+hear/hiə/слышать
+through/θru:/через, сквозь
+stir/stə:/суета, суматоха, мешать, помешивать, волновать
+grate/greit/каминная решетка
+pour/pɔ:/лить
+peel/pi:l/чистить, почистить
+carve/kɑ:v/вырезать, отрезать
+cut/kʌt/разрез, фасон (стрижки волос)
+slice/slais/ломоть
+steam/sti:m/пар
+boil/bɔil/кипятить, кипеть
+squeeze/skwi:z/выжимать, сжимать, давить, впихивать, сжатие, давка
+wash/wɔʃ/мыть, стирать, мытье, стирка
+grill/gril/решетка
+freeze/fri:z/замерзать
+pound/paund/фунт, фунт стерлингов
+resolve/ri'zɔlv/решать
+treat/tri:t/удовольствие, лечить, относиться
+determined/di'tə:mind/решительный
+applied/ə'plaid/прикладной
+hold/həuld/держать(ся), выдерживать, захват, владение
+convenient/kən'vi:niənt/подходящий, удобный
+praised/preizd/хвалил (от praise)
+canvas/'kænvəs/холст, парус
+down/daun/внизу, вниз
+cotton/kɔtn/хлопок, хлопчатобумажный
+flax/flæks/лен, льняное полотно
+fur/fə:/мех, шкура
+hemp/hemp/конопля, пенька
+leather/'leðə/кожа, кожаный
+lining/'lainiŋ/подкладка
+nylon/'nailɔn/нейлон, нейлоновый
+print/print/печатать, напечатать
+silk/'silk/шелковый, шелк
+wool/wul/шерсть
+velvet/'velvɪt/бархат, преимущество
+jersey/'ʤə:zi/джемпер (
+cake/keik/торт
+gift/gift/подарок
+celebrated/'selibreitid/праздновал (от celebrate)
+contemporary/kən'tempərəri/современный
+distribute/dis'tribjut/распределять, распространять
+frail/freil/хрупкий, хилый
+alter/'ɔ:ltə/изменять
+ancient/'einʃənt/древний
+conform/kən'fɔ:m/соответствовать, подчиняться
+detect/di'tekt/открывать, обнаруживать
+directly/di'rektli/прямо, немедленно
+beneath/bi'ni:θ/под, ниже, внизу
+moist/mɔist/сырой, влажный
+mutton/'mʌtn/баранина
+bacon/'beikən/бекон
+bun/bʌn/булочка
+roll/rɔl/вращение, список, булочка, вращаться, катить(ся)
+spade/speid/лопата, заступ
+rake/reik/грабли, сгребать
+hoe/həu/мотыга, рыхлить землю
+hose/həuz/чулки
+abate/ə'beit/уменьшить
+obscure/əb'skjuə/затемнять, затруднять понимание
+amiable/'eimjəbl/любезный, милый
+anomaly/ə'nɔməli/аномалия
+approbation/,æprəu'beiʃən/одобрение (не approvement)
+appropriate/ə'prəupriit/подходящий, соответствующий
+archaic/ɑ:'keiik/устарелый, архаический
+arduous/'ɑ:djuəs/тяжелый, напряженный
+ascent/ə'sent/восхождение, подъем
+aversion/ə'və:ʃən/отвращение
+boisterous/'bɔistərəs/неистовый, шумный
+chronicle/'krɔnikl/летопись, хроника, отмечать
+observe/əb'zə:v/наблюдать, замечать (не outlook)
+countenance/'kauntinəns/самообладание(лицо) (TR!)
+derisive/di'raisiv/насмешливый, иронический (не ironical)
+discern/di'sə:n/различать, видеть
+disdain/dis'dein/презирать, пренебрегать; презрение, пренебрежение (не neglect)
+last/lɑ:st/прошлый, последний, продолжаться, длиться
+autumn/'ɔ:təm/осень
+deep/di:p/глубокий
+strong/strɔŋ/сильный
+term/tə:m/семестр, срок
+ebb/eb/отлив, убывать
+warm/wɔ:m/теплый, согревать
+promise/'prɔmis/обещать
+send/send/отправлять, посылать
+show/ʃəu/показывать, демонстрировать, выставка, зрелище
+everything/'evriθiŋ/все
+fun/fʌn/шутка, веселье
+heap/hi:p/куча
+just/ʤʌst/только, всего лишь, справедливый
+lately/'leitli/за последнее время
+Yet/jet/однако, еще
+done/dʌn/сделанный (от do)
+been/bi:n/быть (от be)
+eminent/'eminənt/выдающийся
+explicit/iks'plisit/ясный
+Coward/'kauəd/трус
+tray/trei/поднос
+omit/ə'mit/опускать, пропускать, упускать
+magician/mə'ʤiʃən/волшебник
+audience/'ɔ:djəns/публика
+rope/rəup/канат
+feat/fi:t/подвиг, ловкость, искусство
+interval/'intəvəl/антракт, промежуток
+performance/pə'fɔ:məns/спектакль
+orchestra/'ɔ:kistrə/партер, оркестр
+tour/tuə/путешествие, тур (не trip)
+stalls/stɔ:lz/кресла в партере ( от stall)
+adversity/əd'və:siti/бедствие, несчастье
+wary/'weərɪ/осторожный
+prominent/'prɔminənt/выдающийся
+substantial/səb'stænʃəl/существенный, заметный, прочный, крепкий
+confident/'kɔnfidənt/уверенный
+hinder/'haində/препятствовать, мешать
+resentment/ri'zentmənt/возмущение
+steady/'stedi/прочный
+colour/'kʌlə/цвет
+picture/'pikʧə/картина, изображение, рисовать, описывать
+portrait/'pɔ:trit/портрет
+landscape/'lændskeip/ландшафт, пейзаж
+drawing/'drɔ:iŋ/протаскивание, вытягивание, рисование, чертеж
+sketch/skeʧ/эскиз
+exhibition/,eksi'biʃn/выставка
+caricature/,kærikə'tjuə/карикатура
+provision/prə'viʒən/заготовка
+ambiguous/æm'bigjuəs/двусмысленный
+scarce/skɛəs/редкий, едва (не barely, merely, hardly)
+hasten/'heisn/торопить(ся)
+impediment/im'pedimənt/препятствие
+ram/ræm/баран
+adhere/əd'hiə/прилипать, приставать ( to) , приклеиваться, хвататься
+parcel/pɑ:sl/пакет
+fairly/'fɛəli/довольно (не rather)
+marvel/'mɑ:vəl/удивляться, поражаться
+convince/kən'vins/убеждать
+stretched/streʧd/растянутый (!NEW!)
+within/wɪð'ɪn/внутри, внутрь
+tread/tred/ступать, наступать
+relate/ri'leit/относиться, связывать
+prospect/n'prɔspekt/перспектива
+nor/nɔ:/и не, также не
+outward/'autwəd/внешний, наружный (не outside)
+suggestion/sə'ʤesʧən/предложение
+apparent/ə'pærənt/видимый, очевидный
+apparently/ə'pærəntli/явно, очевидно
+specimen/'spesimən/образец
+moonlight/'mu:nlait/лунный свет (!NEW!)
+chasing/'ʧeisiŋ/уклоняющийся (от chase)
+away/ə'wei/прочь
+below/bi'ləu/ниже, внизу
+revolve/ri'vɔlv/вращаться
+sweetness/swi:tnəs/сладость (TR!)
+scent/sent/запах, духи, след, почуять, нюхать (не smell)
+barely/'bɛəli/только, едва
+touching/'tʌʧiŋ/трогательный
+taste/teist/пробовать, иметь вкус
+upon/ə'pɒn/на
+asleep/ə'sli:p/спящий (не sleepy)
+truth/tru:θ/правда, истина
+breathe/bri:ð/дышать
+carrier/'kæriə/носильщик, транспортное средство
+pedal/'pedl/педаль
+pump/pʌmp/насос
+rim/rim/ободок
+spoke/spəuk/говорил, говоривший (от speak)
+valve/vælv/клапан, створка, радио электронная лампа
+enforce/in'fɔ:s/принуждать, навязывать, проводить в жизнь
+undertake/‚ʌndər'teɪk/предпринимать
+apologize/ə'pɔləʤaiz/извиняться
+forbid/fə'bid/запрещать
+mystery/'mistəri/тайна
+initiate/ni'niʃiit/начинать (не commence)
+inquiry/in'kwaiəri/расспросы, наведение справок
+strengthen/'streŋθən/усиливать, укреплять
+protection/prə'tekʃən/защита
+grief/gri:f/горе
+cling/kliŋ/цепляться, (при)льнуть
+grateful/'greitful/благодарный
+whenever/wen'evər/когда бы ни
+disgust/dis'gʌst/отвращение, вызывать отвращение
+redeem/ri'di:m/выкупать, искупать, выполнять (обещание и т.п.)
+somewhat/'sʌmwɔt/что-то, отчасти
+intermediate/,intə'mi:djət/промежуточное звено (TR!)
+over/'əuvə/через, над, сверх
+between/bi'twi:n/между
+near/niə/близко от, около
+under/'ʌndə/под
+up/ʌp/вверх, до предела, наверху
+among/ə'mʌŋ/среди (не midst)
+off/ɔf/прочь, от
+into/'intu/в
+from/frɔm/от, из
+begin/bi'gin/начинать(ся)
+continue/kən'tinju:/продолжать(ся)
+end/end/конец
+cease/si:z/прекращать, останавливать
+determine/di'tə:min/определять, устанавливать, разрешать
+properly/'prɔpəli/правильно, должным образом
+brass/brɑ:s/установить
+porcelain/'pɔ:səlin/фарфор
+bronze/brɔnz/бронзовый
+crystal/'kristl/хрусталь
+plastic/'plæstik/пластмасса, пластичный
+alloy/'ælɔi/примесь, сплав
+granite/'grænit/гранит
+metal/'metl/металл, металлический
+zinc/zɪŋk/цинк, цинковый, оцинковывать
+supermarket/'sju:pə,mɑ:kit/супермаркет
+ankle/'æŋkl/щиколотка, лодыжка
+education/,edju:'keiʃn/образование
+fickle/fikl/непостоянный, изменчивый
+city/'siti/город
+country/'kʌntri/страна
+now/nau/сейчас
+town/taun/город (не city)
+pause/pɔ:z/пауза
+peanut/'pi:nʌt/земляной орех
+jelly/'ʤeli/желе
+strain/strein/натягивать, напрягать(ся), напряжение
+straw/strɔ:/пустяк, мелочь
+attraction/ə'trækʃən/привлекательность, аттракцион
+fool/fu:l/дурак, глупец
+baseball/'beisbɔ:l/бейсбол
+hoop/hu:p/обруч
+formidable/'fɔ:midəbl/внушительный (не tremendous)
+ensure/in'ʃuə/обеспечивать, гарантировать
+observation/,ɔbzə'veiʃ(ə)n/наблюдение, замечание
+altogether/,ɔ:ltə'geðə/всего, в общем
+consideration/kæn,sidə'reiʃ(ə)n/рассмотрение, соображение
+decision/di'siʒn/решение
+establish/is'tæbliʃ/учреждать, создавать, утверждать
+trade/treid/торговать, ремесло, занятие, профессия
+go/gəu/идти
+you/ju:/вы, ты
+edit/'edit/редактировать
+save/seiv/спасать, хранить, экономить
+delighted/də'laɪtɪd/восхищался (от delight)
+disappointed/,disə'pɔintid/разочарованный (от disappoint)
+curious/'kjuəriəs/любознательный
+thorough/'θʌrə/тщательный
+adventurous/əd'venʧərəs/отважный, предприимчивый (не undertaking)
+mutual/'mju:tjuəl/взаимный, общий (не common)
+acute/ə'kju:t/острый, проницательный
+significant/sig'nifikənt/значительный
+vague/veɪg/неопределенный, смутный
+superficial/,sju:pə'fiʃəl/поверхностный, внешний
+profound/prə'faund/глубокий
+sharp/ʃɑ:p/точно, ровно, резкий, крутой, плутовать
+appearance/ə'piərəns/появление, внешность
+eyebrows/'aibrauz/брови ((!NEW!))
+female/'fi:meil/женщина, самка
+guffaw/gʌ'fɔ:/хохот
+haughty/'hɔ:ti/высокомерный, надменный
+indolent/'indələnt/ленивый, праздный, безболезненный
+insolent/'insələnt/наглый, дерзкий, оскорбительный
+shoe/ʃu:/ботинок, туфля
+mule/mju:l/мул, тупица, гибрид, туфля без задников
+wedge/wedʒ/клин
+sole/səul/подошва, подметка; ставить подметку
+lace/leis/кружево, шнурок
+suburb/'sʌbə:b/пригород, окраина
+bucket/'bʌkit/ведро
+sweep/swi:p/(под)мести
+crooked/'krukt/кривой
+quench/kwenʧ/утолять (жажду)
+hang/hæŋ/повесить, висеть
+gnaw/nɔ:/грызть, глодать
+fetch/feʧ/приносить
+stream/stri:m/ручей, поток
+full/ful/полный
+hole/həul/отверстие, яма
+fill/fil/заполнить, наполнить
+sly/'slai/хитрый
+ripe/raip/спелый
+grain/'grein/зерно
+honest/'ɔnist/честный
+loyal/'lɔiəl/верный, лояльный
+modest/'mɔdist/скромный
+stubborn/'stʌbən/упрямый
+phone/fəun/телефон
+switch/swiʧ/переключать, включать, выключатель, выключать
+wireless/'waɪərlɪs/беспроволочный, радио
+equipment/i'kwipmənt/снаряжение, оборудование
+loving/'lʌviŋ/любящий
+affection/ə'fekʃən/привязанность, любовь
+careful/'kɛəful/осторожный
+kiss/kis/целовать
+irresolute/ɪ'rezə‚lu:t/нерешительный
+mirth/mə:θ/веселье, радость
+name/neim/имя, фамилия, называть
+place/pleis/место
+lake/leik/озеро
+little/litl/мало, маленький
+bananas/bə'nænəz/бананы (от banana)
+mob/mɔb/толпа, сборище
+precarious/pri'kɛəriəs/ненадежный
+protocol/'prəutəkɔl/протокол (TR!)
+prudent/'pru:dnt/осторожный, благоразумный (не careful)
+purge/pə:ʤ/чистка (не clean)
+repose/ri'pəuz/полагаться, доверяться
+rogue/rəug/плут, мошенник (не valet)
+inquire/in'kwaiə/спрашивать, узнавать
+sanction/'sæŋkʃən/санкция
+sanguine/'sæŋgwin/живой, жизнерадостный, румяный (не spirited)
+body/'bɔdi/тело
+blood/blʌd/кровь
+flesh/fleʃ/тело, плоть, мясо
+carry/'kæri/нести, носить, возить
+here/hiə/здесь, вот
+thing/θiŋ/вещь, предмет
+think/θiŋk/думать, мыслить
+liquid/'likwid/жидкость
+slowly/'sləuli/медленно
+enough/i'nʌf/достаточный
+dirty/'də:ti/грязный
+industrious/in'dʌstriəs/трудолюбивый, прилежный (не hardworking)
+value/'vælju/ценность, цена, дорожить, ценить
+borrow/'bɔrəu/брать в долг
+rely/ri'lai/полагаться, доверять
+population/,pɔpju'leiʃn/население, жители
+gene/ʤi:n/ген
+fossil/'fɔsl/ископаемое
+musician/mju:'ziʃ(ə)n/музыкант
+bass/bæs/бас, басовый
+song/sɔŋ/песня
+composition/,kɔmpə'ziʃən/сочинение, композиция
+tune/tju:n/мотив
+arrangement/ə'reinʤmənt/договоренность
+key/ki:/ключ
+crowded/'kraudid/многолюдный
+foster/'fɔstə/воспитывать
+venture/'ventʃər/предприятие, риск
+favour/'feivə/одолжение, услуга, польза
+hamper/'hæmpə/препятствие
+contribute/kən'tribju:t/делать вклад, способствовать
+gaze/geiz/пристально глядеть, пристальный взгляд
+accused/ə'kju:zd/обвиняемый
+perceive/pə'si:v/воспринимать, ощущать
+disaster/di'zɑ:stə/бедствие, несчастье
+damage/'dæmiʤ/повреждать, причинять ущерб
+arrive/ə'raiv/приезжать
+leave/li:v/оставлять, покидать, уезжать
+return/ri'tə:n/вернуть(ся), возвращение
+visit/'vizit/визит, посещать, навещать
+disappear/,disə'piə/исчезать, исчезнуть
+meet/mi:t/встречать(ся), знакомиться
+look/luk/смотреть, выглядеть, взгляд, внешность
+speak/spi:k/говорить, убеждать
+talk/tɔ:/говорить, беседовать
+hello/hə'ləu/привет
+operation/,ɔpə'reiʃn/действие, операция
+play/plei/играть, игра (play)
+rescue/'reskju:/спасение, спасать
+collect/kə'lekt/коллекционировать
+induce/in'dju:s/убеждать
+regulate/'regjuleit/регулировать, приспосабливать
+pan/pæn/сковорода
+helping/'helpiŋ/помощь
+starve/stɑ:v/умирать от голода
+desperate/'despərit/отчаянный, безнадежный
+munch/mʌnʧ/чавкать
+filling/'filiŋ/заполнение, наполнение
+torture/'tɔ:ʧə/пытать, пытка (не attempt)
+occasion/ə'keiʒn/случай, обстоятельство
+marvellous/'mɑ:vələs/удивительный, замечательный
+sniff/snif/фыркать, сопеть
+surround/sə'raund/окружать
+treasury/'trəʒəri/сокровищница
+politeness/pə'laitnis/вежливость (TR!)
+kindness/'kaindnis/доброта, любезность
+hospitality/,hɔspi'tæliti/гостеприимство
+confidence/'kɔnfidəns/доверие
+independence/,indi'pendəns/независимость
+composure/kəm'pəuʒə/спокойствие, самообладание
+concentration/,kɔnsən'treiʃən/концентрация, сосредоточенность
+industry/'indəstri/промышленность
+foresight/'fɔ:sait/предвидение, предусмотрительность
+pride/praid/гордость
+laziness/'leizinis/лень
+cruelty/'kruəlti/жестокость
+jealousy/'ʤeləsi/ревность
+skull/'skʌl/череп
+nerve/nə:v/нерв
+hush/hʌʃ/водворять тишину
+push/puʃ/толкать
+pull/pul/тянуть, тащить
+stretch/streʧ/растягивать, вытягиваться
+universal/,ju:ni'və:sl/всеобщий
+comprehensive/,kɔmpri'hensiv/исчерпывающий, обширный
+rib/rib/ребро (не hip)
+spine/spain/позвоночный столб
+male/meil/мужчина, самец
+men/men/мужчины (от man)
+women/'wimin/женщины (от woman)
+January/'ʤænjuəri/январь
+February/'februəri/февраль
+March/mɑ:ʧ/маршировать
+April/'eipril/апрель
+may/mei/май
+June/ʤu:n/июнь
+July/ʤu:lai/июль
+August/'ɔ:gəst/август
+September/sep'tembə/сентябрь
+October/ɔk'təubə/октябрь
+November/nəu'vembə/ноябрь
+December/di'sembə/декабрь
+necessarily/'nesisərili/обязательно
+exactly/ig'zæktli/точно, именно
+quiet/'kwaiət/тихий, спокойный
+argument/'ɑ:gjumənt/спор
+course/kɔ:s/курс, блюдо
+bore/bɔ:/скука
+surface/'sə:fis/поверхность
+moan/məun/оплакивать, стонать
+sigh/sai/вздыхать, вздох
+enclose/in'kləuz/окружать
+err/ə:/допустить ошибку (TR!)
+oriental/,ɔ:ri'entl/восточный
+repeatedly/ri'pi:tidli/неоднократно
+general/'ʤenərəl/общий
+definite/'definit/определенный, точный
+depend/di'pend/зависеть
+freely/'fri:li/свободно
+move/mu:v/двигать(ся), переезжать
+piece/pi:s/кусок
+solid/'sɔlid/твердый
+than/ðən/чем
+thick/θik/толстый, густой
+vessel/vesl/сосуд, судно
+goal/gəul/цель, гол
+halfway/‚hæf'weɪ/на полпути (!NEW!)
+bishop/'biʃəp/епископ, слон (шахм.)
+knight/nait/рыцарь
+adore/ə'dɔ:/обожать
+bite/bait/кусаться
+catch/kæʧ/уловить, понять, получить нагоняй
+deal/di:l/значительное количество
+inch/inʧ/дюйм
+insect/'insekt/насекомое
+join/ʤɔin/соединяться
+pass/pɑ:s/передавать, проходить, пропуск, перевал
+foam/fəum/пена
+bike/baik/велосипед
+permission/pə'miʃn/разрешение
+feature/'fi:ʧə/особенность, характерная черта
+achieve/ə'ʧi:v/достигать, успешно выполнять
+promising/'prɔmisiŋ/многообещающий
+exchange/iks'ʧeiʤ/обмен, обменивать
+distinguish/dis'tiŋgwiʃ/отличать, различать, разделять
+are/ɑ:/есть (от be)
+gram/græm/грамм
+league/li:g/союз, лига
+mile/mail/миля
+yard/jɑ:d/ярд, двор
+coin/kɔin/монета
+reverse/ri'və:s/противоположное, обратное
+dollar/'dɔlə/доллар
+cent/sent/цент
+legend/'leʤənd/легенда
+undertaking/,ʌndə'teikiŋ, 'ʌndə,teikiŋ/предприятие
+prove/pru:v/доказывать, доказать
+intricate/'intrikit/запутанный (не entangled)
+helmet/'helmit/шлем, каска
+proposal/prə'pəuzəl/предложение
+biscuit/'biskit/сухое печенье
+pizza/'pi:tsə/пицца
+spectacular/spek'tækjulə/производящий глубокое впечатление; впечатляющий; эффектный
+distinguished/dis'tiŋgwiʃt/выдающийся, почетный
+steak/steik/бифштекс
+stew/stju:/тушеное мясо
+rouge/ru:ʒ/румяна, губная помада
+scrub/skrʌb/тереть
+wig/wɪg/парик
+require/ri'kwaiə/требовать
+staff/stɑ:f/штат, персонал, штаб
+skill/skil/мастерство
+children/'ʧildrən/дети
+grandparents/'græn,pɛərənts/дедушка и бабушка
+chauffeur/'ʃəufə/шофер
+director/di'rektə/режиссер
+guard/gɑ:d/охрана, стража
+guide/gaid/гид, экскурсовод
+librarian/lai'brɛəriən/библиотекарь
+mechanic/mi'kænik/механик
+policeman/pə'lismən/полицейский
+stepfather/'step,fɑ:ðə/отчим
+believe/bi'li:v/верить
+counter/'kauntə/прилавок, противостоять, противиться
+two/tu:/два
+zero/'ziərəu/ноль
+three/θri:/три
+four/fɔ:/четыре
+six/siks/шесть
+seven/sevn/семь
+eight/eit/восемь
+nine/nain/девять
+ten/ten/десять
+eleven/i'levn/одиннадцать
+twelve/twelv/двенадцать
+thirteen/'θə:'ti:n/тринадцать
+fourteen/'fɔ:'ti:n/четырнадцать
+fifteen/'fif:'ti:n/пятнадцать
+sixteen/'siks'ti:n/шестнадцать
+eighteen/'ei'ti:n/восемнадцать
+nineteen/'nain'ti:n/девятнадцать
+twenty/'twenti/двадцать
+thirty/'θə:ti/тридцать
+forty/'fɔ:ti/сорок
+fifty/'fifti/пятьдесят
+sixty/'siksti/шестьдесят
+seventy/'sevnti/семьдесят
+eighty/'eiti/восемьдесят
+thousand/'θauzənd/тысяча
+income/'inkəm/доход, заработок
+welfare/'welfeər/благосостояние
+deduction/di'dʌkʃən/вычитание, вычет, удержание, вывод, заключение
+injury/'inʤəri/телесное повреждение
+reference/'refər(ə)ns/рекомендация, ссылка, справка
+atom/'ætəm/атом
+mass/mæs/масса, множество
+energy/'enəʤi/энергия, сила
+impulse/'impʌls/побуждение, порыв
+administrator/əd'ministreitə/администратор
+clerk/klɑ:k/чиновник
+labourer/'leibərə/рабочий
+genuine/'ʤenjuin/подлинный
+adequate/'ædikwit/достаточный, соответствующий
+assignment/ə'sainmənt/назначение
+goodwill/‚gʋd'wɪl/добрая воля
+consent/kən'sent/разрешение
+despise/dis'paiz/презирать
+terrified/'terifaid/испуганный (TR!)
+subsequently/'sʌbsikwəntli/впоследствии
+valid/'vælid/правильный
+Egypt/'i:dʒɪpt/египет (TR!)
+England/'ɪŋglənd/англия
+France/fræns/франция
+Italy/'ɪtəlɪ/италия (TR!)
+English/'iŋgliʃ/английский язык, английский
+French/frenʧ/французский
+Greek/gri:k/грек (TR!)
+Italian/i'tæljən/итальянец (TR!)
+Mexican/'meksikən/мексиканец (TR!)
+polish/'pɔliʃ/лак
+flat/flæt/квартира, плоский
+hall/hɔ:l/зал
+bedroom/'bedrum/спальня
+garage/'gærɑ:ʒ/гараж
+attic/'ætik/чердак
+some/sʌm/немного, несколько
+own/əun/иметь, владеть, свой, собственный
+authoritative/ɔ:'θɔritətiv/авторитетный
+housewife/'hauswaif/домашняя хозяйка
+painter/'peintə/художник
+driver/'draivə/водитель, шофер
+trot/trɔt/рысь, рысца, бежать рысью
+strike/straik/ударять, забастовка
+kick/kik/пинать, пнуть
+punch/pʌnʧ/пробивать (отверстия), ударять кулаком, удар кулаком, пунш
+creep/kri:p/ползать, выползать
+hit/hit/успех, удача, попадать в цель
+client/'klaiənt/клиент
+student/'stju:dənt/студент
+opposite/'ɔpəzit/противоположный
+committed/kə'mitɪd/совершенный(переданный) (TR!)
+poverty/'pɔvəti/бедность
+mature/mə'ʧuə/зрелый, созреть
+inferior/in'fi(ə)riə/худший, плохой
+tolerant/'tɔlərənt/терпимый (не bearable)
+provoke/prə'vəuk/вызывать, провоцировать
+duster/'dʌstə/тряпка, щетка
+door/dɔ:/дверь
+curtains/'kɜ:rtənz/занавески ((!NEW!))
+clock/klɔk/часы (не watch)
+dictionary/'dikʃ(ə)nri/словарь
+newspaper/'nju:speipə/газета
+blessed/'blesid/благословлённый (!NEW!)
+swear/swɛə/клясться
+grow/grəu/расти
+rising/'raiziŋ/возрастающий
+grave/greiv/могила, серьезный, важный
+goodbye/gʋd'baɪ/прощание
+Hi/hai/привет
+number/'nʌmbə/номер
+job/ʤɔb/работа
+right/rait/правильный, правый
+wrong/rɔŋ/неправильный, не тот
+gravy/'greivi/подливка, соус
+pudding/'pudiŋ/пудинг
+beer/biə/пиво
+juice/ʤu:s/сок
+brandy/'brændi/коньяк, бренди
+tea/ti:/чай, отвар
+wine/wain/вино, винный, пить вино
+coffee/'kɔfi/кофе
+rum/rʌm/ром, странный
+chocolate/'ʧɔk(e)lit/шоколад
+lemonade/,lemə'neid/лимонад
+liquor/'likə/крепкий спиртной напиток
+port/pɔ:t/порт
+cocoa/'kəukəu/какао
+cocktail/'kɔkteil/коктейль
+herein/'hiər'in/в этом, при сем
+frankly/'fræŋklɪ/откровенно
+policy/'pɔlisi/политика
+retirement/ri'taiəmənt/отставка
+position/pə'ziʃn/положение
+charity/'ʧæriti/милосердие
+surplus/'sə:pləs/излишек
+dark/dɑ:k/темный, печальный
+light/lait/свет, освещение, фара, освещать, зажигать
+bright/brait/ясный
+brilliant/'briliənt/блестящий, брильянт
+shades/ʃædz/оттенки (от shade)
+efficiency/i'fiʃənsi/эффективность
+margin/'mɑ:ʤin/минимум, нижняя грань, предел
+ancestor/'ænsəstə/предок
+grab/græb/внезапно схватывать
+warrant/'wɔrənt/полномочие, ордер, гарантировать
+enable/i'neibl/давать возможность, делать возможным
+weight/weit/вес, тяжесть, груз
+probability/,prɔbə'biliti/вероятность
+ailing/'eiliŋ/больной
+additions/ə'diʃənz/Дополнения
+disposal/dis'pəuzəl/вручение, право распоряжаться
+I/ai/я
+he/hi:/он
+she/ʃi:/она
+this/ðis/этот, это
+they/ðei/они
+it/it/это, он, она (для предметов и животных)
+persian/'pə:ʃən/персидский (TR!)
+constraint/kən'streint/ограничение (TR!)
+exposure/iks'pəuʒə/подвергание (TR!)
+major/'meiʤə/специализироваться, главный
+institution/,insti'tju:ʃn/учреждение
+submit/səb'mit/подчиняться
+issue/'isju:/выпуск, издание, выпускать
+challenge/'ʧælinʤ/вызывать, вызов
+option/'ɔpʃən/выбор
+improvement/im'pru:vmənt/улучшение
+unique/ju:'ni:k/уникальный (TR!)
+raising/reizɪŋ/воспитание
+duty/'dju:ti/долг, обязанность, пошлина
+toward/'təuəd/к, на
+public/'pʌblik/общественный (не social)
+assist/ə'sist/помочь, помогать
+obligation/,ɔbli'geiʃ(ə)n/обязательство
+comply/kəm'plai/уступать, соглашаться
+furthermore/'fə:ðə'mɔ:/кроме того
+assistance/ə'sistəns/помощь
+prize/praiz/приз
+society/sə'saiəti/общество
+money/'mʌni/деньги
+service/'sə:vis/сервис, обслуживание
+time/taim/время
+world/wə:ld/мир, свет
+Monday/'mʌndi/понедельник
+Tuesday/'tju:zdi/вторник
+Wednesday/'wenzdi/среда
+Thursday/'θə:zdi/четверг
+Friday/'fraidi/пятница
+Saturday/'sætədi/суббота
+Sunday/'sʌndi/воскресенье
+color/'kʌlə/цвет (TR!)
+sex/seks/пол
+adult/'ædʌlt/взрослый
+rack/ræk/полка для багажа над сиденьем
+dough/dəu/тесто
+surname/'sə:neim/фамилия
+postcard/'pəustkɑ:d/почтовая открытка
+camera/'kæməre/фотоаппарат
+stamp/stæmp/марка, печать, штемпелевать
+Russia/'rʌʃə/россия
+horrible/'hɔrəbl/ужасный
+young/jʌŋ/молодой
+we/wi:/мы
+him/him/его, ему
+its/its/его, ее (от it)
+these/ði:z/эти, это
+those/ðəuz/тот, та, то, те
+us/ʌs/нас, нам
+un/‚ju:'en/оон (TR!)
+pinch/pinʧ/щипать, прищемить, щипок
+harness/'hɑ:nis/упряжь, запрягать
+whose/hu:z/чей
+how/hau/как
+receipt/ri:'si:t/квитанция
+obtain/əb'tein/добиваться
+query/'kwiəri/вопрос, спрашивать
+booking/'bʋkɪŋ/продажа билетов
+lighting/'laitiŋ/освещение
+heating/'hi:tiŋ/отопление
+volume/'vɔljum/объем, громкость
+allocation/,æləu'keiʃən/распределение, назначение
+assembly/ə'sembli/собрание, ассамблея
+finishing/'finiʃiŋ/завершение
+storage/'stɔ:riʤ/хранение
+arbitrary/'ɑ:bitrəri/произвольный
+feminine/'feminin/женский, женского рода (грам.)
+complex/'kɔmpleks/сложный, составной, комплексный
+brave/breiv/храбрый, смелый
+intelligent/in'teliʤənt/умный
+polite/pə'lait/любезный, вежливый
+accurate/'ækjurit/точный, правильный
+helpful/'helpful/полезный
+original/ə'riʤənəl/оригинал, первоначальный
+sympathetic/,simpə'θetik/сочувственный
+educated/'edju:keitid/образованный
+greedy/'gri:di/жадный
+pleasant/'plez(ə)nt/приятный
+arguments/'ɑ:gjumənts/аргументы(споры) (TR!)
+considerate/kən'sidərit/внимательный (к другим), чуткий
+obedient/ə'bi:djənt/послушный
+courageous/kə'reiʤəs/смелый, отважный
+if/if/если
+respectful/ris'pektful/почтительный
+first/fə:st/первый
+towards/tə'wɔ:dz/к, в направлении
+relationship/ri'leiʃənʃip/родственные связи
+spend/spend/тратить
+exhaust/ig'zɔ:st/исчерпывать, истощать, выхлоп (тех.)
+myself/mai'self/себя, меня самого, себе, сам
+past/pɑ:st/после, за
+flowerbed/'flauəbed/клумба
+disbelief/,disbi'li:f/недоверие
+brilliance/'briljəns/блеск, великолепие, яркость (не brightness)
+genius/'ʤi:njəs/гений
+intelligence/in'teliʤəns/интеллект
+disabled/dis'eibld/искалеченный, выведенный из строя
+extraordinary/iks'trɔ:dnri/необычный
+frantic/'fræntik/неистовый
+ingenious/in'ʤi:njəs/изобретательный, остроумный, находчивый
+malicious/mə'liʃəs/злобный
+reluctant/ri'lʌktənt/делающий что-либо с большой неохотой, по принуждению; сопротивляющийся
+praise/preiz/хвалить
+smart/smɑ:t/изящный (не grace)
+external/eks'tə:nl/наружный
+specification/,spesifi'keiʃən/спецификация (TR!)
+ought/ɔ:t/долженствование
+niche/niʧ/ниша
+display/dis'plei/показ, выставка
+mainly/'meinli/главным образом
+convinced/kən'vinst/убежденный
+ambulance/'æmbjuləns/полевой госпиталь, карета скорой помощи
+arrest/ə'rest/арестовывать, арест
+bleeding/'bli:diŋ/кровотечение (TR!)
+breath/breθ/дыхание
+breathing/'bri:ðiŋ/дыхание
+crash/kræʃ/потерпеть крах, потерпеть крушение
+emergency/i'mə:ʤənsi/крайняя необходимость
+glad/glæd/рад
+pulse/pʌls/пульс, пульсировать
+urgent/'ə:ʤənt/крайне необходимый, срочный
+warning/'wɔ:niŋ/предупреждение
+camp/kæmp/лагерь
+choice/ʧɔis/выбор ( не choose)
+dead/ded/мертвый
+deputy/'depjuti/депутат, делегат
+incident/'insidənt/инцидент
+nowadays/'nauədeiz/в наше время
+outlaw/'autlɔ:/человек вне закона, изгнанник
+steal/sti:l/(с)воровать
+suspicious/səs'piʃəs/подозрительный
+weapon/'wepən/оружие
+interested/'intristid/заинтересованный, интересующийся (от interest)
+extremely/ik'stri:mli/крайне
+protect/prə'tekt/защищать, предохранять
+too/tu:/слишком, тоже
+exhausted/ig'zɔ:stid/изнуренный
+tired/'taiəd/усталый (от tire)
+enamel/i'næməl/эмаль, глазурь
+pulp/pʌlp/мякоть, бумажная масса
+cavity/'kæviti/впадина, полость
+toothache/'tu:θeik/зубная боль
+crown/kraun/корона
+elastic/i'læstik/эластичный, упругий, резинка
+discretion/dis'kreʃən/свобода действий; свободный выбор
+substitute/'sʌbstitju:t/заместитель
+candle/'kændl/свеча
+like/laik/любить, нравиться, похожий, подобный
+life/laif/жизнь
+peace/pi:s/мир
+clever/'klevə/умный
+characteristic/,kæriktə'ristik/особенность
+exclaim/iks'kleim/восклицать
+largely/'lɑ:ʤli/обильно
+exact/ig'zækt/точный
+person/pə:sn/человек, особа, лицо, личность
+feet/fi:t/ноги, ступни
+mice/mais/мыши
+lustre/'lʌstə/блеск, лоск, глянец, люстра
+unfortunately/ʌn'fɔ:ʧnitlɪ/к несчастью, к сожалению
+therefore/'ðɛəfɔ:/поэтому, следовательно
+cheque/ʧek/банковский чек
+weather/'weðə/погода
+due/dju:/должный, обязанный
+currently/'kɜ:rəntlɪ/в настоящее время (TR!)
+try/trai/пробовать, пытаться
+physician/fi'ziʃən/врач
+inherited/in'heritid/унаследованный (TR!)
+merit/'merit/достоинство
+forbidden/fə'bidn/запрещенным (TR!)
+equality/i:'kwɔliti/равенство, равноправие
+unfair/'ʌn'fɛə/несправедливый
+neglect/ni'glekt/пренебрегать
+prolong/prəu'lɔŋ/продлевать
+terminate/'tə:mineit/кончать(ся)
+opt/ɔpt/выбирать
+rigid/'riʤid/жесткий (не tough)
+exploit/'eksplɔit/эксплуатировать
+distract/dis'trækt/отвлекать
+awkward/'ɔ:kwəd/неуклюжий
+principal/'prinsipəl/главный, основной, важнейший
+breach/bri:ʧ/брешь, пробивать брешь
+pattern/'pætən/модель
+confusion/kən'fju:ʒ(ə)n/смущение
+random/'rændəm/случайный, беспорядочный
+confirm/kən'fə:m/подтверждать, утверждать
+credit/'kredit/кредит
+maturity/mə'tjuəriti/зрелость
+yield/ji:ld/приносить
+alternate/nɔ:l'tə:nit/переменный
+batch/bæʧ/выпечка, партия, группа
+threshold/'θreʃhəuld/порог
+allowance/ə'lauəns/дозволение, допущение (allowance)
+coast/kəust/побережье
+historical/his'tɔrikəl/исторический
+rainy/'reini/дождливый
+sunny/'sʌni/солнечный
+traditional/trə'diʃənl/традиционный
+excited/ik'saitɪd/взволнованный, возбуждённый
+group/gru:p/группа
+quickly/'kwikli/быстро
+trap/træp/ловушка, западня
+buzzer/'bʌzə/(фабричный) гудок
+quiz/kwiz/опрос, проверять знания
+bitter/bitə/горький, мучительный
+packet/'pækit/пакет (не bundle)
+pool/pu:l/пруд, бассейн
+typical/'tipik(ə)l/типичный
+belongings/bɪ'lɔ:ŋɪŋz/вещи, пожитки
+fortunate/'fɔ:ʧnit/счастливый
+condition/kən'diʃn/условие
+outside/'autsaid/снаружи, наружный
+contain/kən'tein/содержать, сдерживать
+optional/'ɔpʃənl/дополнительный (TR!)
+summary/'sʌməri/конспект, суммарный
+consistent/kən'sistənt/совместимый, согласующийся (не compatible)
+compare/kəm'pɛə/сравнивать
+per/pə:/в
+pipe/paip/труба (не tube)
+vary/'veərɪ/отличаться, расходиться
+weigh/wei/взвешивать, весить
+requirement/ri'kwaiəmənt/требование
+revenue/'revinju:/доход
+asset/'æset/имущество
+widow/'widəu/вдова
+kind/kaind/добрый, вид, род
+hardworking/hɑ:dɪŋ/трудолюбивый
+nervous/'nə:vəs/нервный
+calm/kɑ:m/успокаивать
+noisy/'nɔizi/шумный
+beautiful/'bju:tiful/красивый
+stupid/'stju:pid/глупый
+silly/'sili/глупый
+rude/ru:d/грубый, резкий, невоспитанный
+joyful/'ʤɔif(ə)l/радостный, довольный
+cheerful/'ʧiəf(ə)l/жизнерадостный, веселый
+ambitious/æm'biʃəs/честолюбивый
+neat/ni:t/чистый, опрятный
+dad/dæd/папа, отец
+mummy/'mʌmi/мумия (TR!)
+neighbour/'neibə/сосед
+change/ʧeinʤ/мелкие деньги, сдача, менять, пересаживаться
+lift/lift/поднимать, подъемник, лифт
+reach/ri:ʧ/достигать
+such/sʌʧ/такой
+useful/'ju:sful/полезный
+without/wiðaut/без
+ran/ræn/бежал, убежавший (от run)
+terrific/tə'rifik/потрясающий, ужасающий
+thoroughly/'θʌrəli/тщательно
+tiny/'taini/крошечный
+nasty/'nɑ:sti/скверный, плохой
+amazing/ə'meiziŋ/удивительный
+magnificent/mæg'nifisnt/великолепный
+excellent/'eksələnt/превосходный, отличный
+sob/sɔb/рыдание
+creak/kri:k/скрип, скрипеть
+rustle/'rʌsl/шелест, шорох, шелестеть, шуршать
+cruel/kruəl/жестокий, беспощадный
+bang/bæŋ/ударять, хлопать (дверью и т.п.)
+crackle/'krækl/хрустеть, потрескивать
+flash/flæʃ/вспышка, сверкать
+howl/haul/выть, вой (не wail)
+twinkle/'twɪŋkəl/мерцать, сверкать, мигать, мелькать
+wail/weɪl/вопль, вой, вопить, выть
+blazing/'bleiziŋ/сверкание
+interference/,intə'fi(ə)rəns/вмешательство
+suspense/səs'pens/неизвестность
+tremble/trembl/дрожать, дрожь
+mud/mʌd/грязь
+unexpected/‚ʌnɪk'spektɪd/неожиданный
+dull/dʌl/скучный
+glowing/'gləuiŋ/пылающий
+revive/ri'vaiv/оживать
+deserved/di'zə:vd/заслуженный ((!NEW!))
+struggling/strʌglɪŋ/борьба (TR!)
+reluctantly/ri'lʌktəntli/неохотно (не unwillingly)
+farm/fɑ:m/ферма
+peculiar/pi'kju:ljə/особенный
+sound/saund/звук, звучать, играть
+smell/smel/запах
+spit/spit/плеваться, фыркать
+movement/'mu:vmənt/движение
+hundred/'hʌndrid/сто
+conventional/kən'venʃənl/обычный, обусловленный
+vow/vaʋ/обет, клятва
+proclamation/,prɔklə'meiʃən/воззвание, прокламация
+tempt/tempt/искушать
+inevitable/in'evitəbl/неизбежный
+hire/'haiə/взять напрокат
+fund/fʌnd/фонд
+title/'taitl/заглавие, титул
+headquarters/'hed,kwɔ:təz/штаб
+output/'autput/выпуск, продукция
+employment/im'plɔimənt/служба, занятие (не occupation, profession)
+spread/spred/распространяться
+fix/fiks/починить, наладить, назначить
+loud/laud/громкий
+yawn/jɔ:n/зевать, зевота
+loss/lɔs/потеря, утрата
+accuracy/'ækjurəsi/точность, аккуратность
+error/'erə/ошибка
+fraud/frɔ:d/обман, фальшивка
+component/kəm'pəunənt/компонент
+somehow/'sʌmhau/как-нибудь, так или иначе
+combine/n'kɔmbain/объединять (не connect)
+crisp/krisp/хрустящий картофель
+curved/kə:vd/изогнутый (TR!)
+gleam/gli:m/проблеск, светиться
+pot/pɔt/котелок
+perfect/'pə:fikt/совершенный
+network/'netwə:k/сеть
+rival/'raivəl/соперник, соперничающий
+bounce/bauns/отскакивать
+variety/və'raiəti/разнообразие
+scarlet/'skɑ:lit/алый
+chatter/'ʧætə/болтать, болтовня
+chat/ʧæt/беседа, болтовня (не blab)
+say/sei/сказать, говорить
+mumble/'mʌmbl/бормотание
+injunction/in'ʤʌŋkʃən/предписание
+excitedly/ik'saitlɪ/взволнованно (не thrilling) (TR!)
+smoothly/smu:ðlɪ/гладко (!NEW!)
+ignore/ig'nɔ:/игнорировать
+detail/'di:teil/деталь
+echo/'ekəu/эхо, отголосок
+exploration/,eksplɔ:'reiʃən/исследование
+generally/'ʤenərəli/вообще, обычно
+globe/'gləub/земной шар, глобус
+isle/ail/остров(ок)
+lens/lenz/линза
+colourful/'kʌləful/красочный
+stall/stɔ:l/партер
+wooden/'wudn/деревянный
+exclusive/iks'klu:siv/исключительный, недоступный
+type/taip/тип, род
+edition/i'diʃn/издание
+spoil/spɔil/портить, баловать
+grounds/graʋndz/основания(земля) (TR!)
+endure/in'djuə/вынести (TR!)
+numerous/'nju:m(ə)rəs/многочисленный
+perform/pə'fɔ:m/делать, выполнять
+willing/'wɪlɪŋ/готовый, охотно делающий что-либо
+broad/brɔ:d/широкий
+argue/'ɑ:gju:/спорить
+guilt/gilt/вина, виновность
+mess/mes/беспорядок, путаница
+belief/bi:li:f/вера, доверие
+spotless/'spɔtlis/безупречный
+enthusiastic/in,θju:zi'æstik/восторженный
+raw/rɔ:/сырой
+clearing/'kliəriŋ/clearing (TR!)
+natives/'neitivz/аборигены (TR!)
+burglary/'bə:gləri/кража со взломом
+gloomy/'glu:mi/мрачный (не dreary)
+sacrifice/'sækrifais/жертва
+ruling/'ru:liŋ/правящий (
+motion/məuʃn/движение
+wants/wɔnts/хочет, желает, нуждается в (от want)
+contrast/'kɔntrɑ:st/противоположность, контраст
+cope/kəup/справиться, совладать
+criticize/'kritisaiz/критиковать
+define/di'fain/определять, устанавливать
+describe/dis'kraib/описывать
+grade/greid/сортировать, степень
+interpret/in'tə:prit/интерпретировать, переводить(устно)
+mark/mɑ:k/норма, состояние, оценка, отметка
+recite/ri'sait/рассказывать, перечислять
+survey/n'sə:vei/осмотр
+review/ri'vju:/обзор, смотр (не survey)
+verify/'verifai/проверять, подтверждать
+skim/skɪm/просматривать, скользить
+clothing/'kləuðiŋ/одежда, обмундирование
+shoes/ʃu:z/обувь, туфли (от shoe)
+finest/finəst/самый прекрасный (TR!)
+cap/kæp/шапка
+latest/'leitist/последний (не latter)
+character/'kæriktə/характер
+coat/kəut/пальто
+during/'djuəriŋ/во время
+elegant/'eligənt/изящный
+owner/'əunə/владелец
+president/'prezidənt/президент
+professor/prə'fesə/профессор
+clue/klu:/ключ (к разгадке), улика
+lighter/'laitə/зажигалка
+clothes/kləuðz/одежда
+expert/'espə:t/эксперт
+investigator/in'vestigeitə/исследователь
+machine/mə'ʃi:n/машина
+diploma/di'pləumə/диплом, свидетельство
+engineering/,enʤi'niəriŋ/техника, машиностроение, махинации
+lecture/'lekʧə/лекция
+photography/fə'tɔgrəfi/фотография
+campaign/kæm'pein/компания, проводить кампанию
+circus/'sə:kəs/цирк, арена
+forest/'fɔrist/лес
+natural/'næʧrəl/естественный
+round/raund/круг, цикл, полный, круглый
+realistic/riə'listik/реалистический
+set/set/класть, ставить, помещать, комплект
+stage/steiʤ/сцена, эстрада, ставить
+cartoon/kɑ:'tu:n/мультфильм
+construct/kən'strʌkt/строить,создавать
+everywhere/'evriwɛə/всюду, везде
+sledge/sleʤ/ехать на санях
+Couple/kʌpl/пара
+cheeky/'ʧi:ki/развязный
+reserved/ri'zə:vd/заказал, заказанный (от reserve)
+saddle/'sædl/седло, седлать
+lorry/'lɔri/грузовик (не truck)
+germ/ʤə:m/зародыш (биолог.), микроб
+torch/tɔ:ʧ/факел
+utilize/'ju:tilaiz/использовать
+solution/sə'lu:ʃ(ə)n/решение, разрешение
+distribution/,distri'bju:ʃən/распределение
+countless/'kauntlis/бесчисленный
+producer/prə'dju:sə/режиссер
+exceed/ik'si:d/превышать, превосходить
+answer/'ɑ:nsə/ответ, отвечать
+assume/ə'sju:m/принимать на себя
+conclude/kən'klu:d/завершать, заключать
+declare/di'klɛə/декларировать
+flexible/'flæksəbl/гибкий
+mission/miʃn/миссия
+reputation/,repju:'teiʃən/репутация
+select/si'lekt/выбирать, сортировать, избранный
+senior/'si:njə/старший
+succeed/sək'si:d/достигать цели
+enterprising/'entəpraiziŋ/предприимчивый
+adjustment/ə'ʤʌstmənt/регулирование
+advocate/'ædvəkit/отстаивать, защищать
+apparel/ə'pærəl/одевать, наряжать
+ardent/'ɑ:dənt/пылкий
+atmospheric/,ætməs'ferik/атмосферный
+attract/ə'trækt/привлекать
+attribute/n'ætribju:t/приписывать
+base/beis/основа
+consequently/'kɔnsikwəntli/следовательно, в результате
+landlord/'lænlɔ:d/домовладелец
+printing/'printiŋ/печатание
+dip/dip/погружать
+conscience/'kɔnʃ(ə)ns/совесть, сознание
+inherent/in'hiərənt/неотъемлемый, присущий, свойственный (не Integral)
+cautious/'kɔ:ʃəs/осторожный
+sober/'səubə/трезвый
+stocks/stɔks/акции(запасы) (TR!)
+intercept/n'intəsept/перехватывать
+be/bi:/быть
+unkind/ʌn'kaind/недобрый
+nice/nais/хороший, чудесный, приятный
+unpleasant/ʌn'plez(ə)nt/неприятный
+miserable/'mizərəbl/несчастный
+Holes/həulz/отверстия (TR!)
+security/si'kjuəriti/безопасность
+announcement/ə'naunsmənt/объявление, сообщение
+shield/ʃi:ld/щит
+sword/sɔ:d/меч, шпага, сабля
+spear/spiə/дротик, копье
+armour/'ɑ:mə/броня
+officer/'ɔfisə/служащий, офицер
+correct/kə'rekt/исправлять, правильный
+Pacific/pə'sifik/мирный
+disturb/dis'tə:b/нарушать, беспокоить
+soon/su:n/скоро, рано
+petition/pi'tiʃən/петиция, прошение, подавать петицию
+unfit/ʌn'fit/негодный, неподходящий
+relief/ri'li:f/облегчение, утешение
+remedy/'remidi/лекарство
+almond/'ɑ:mənd/миндаль, миндалина
+ascertain/,æsə'tein/установить, удостовериться
+discover/dis'kʌvə/открывать, обнаруживать
+enter/'enter/входить, поступать (enter)
+explore/iks'plɔ:/исследовать
+indicate/'indikeit/показывать, указывать
+invent/in'vent/изобретать, изобрести
+investigate/in'vestigeit/исследовать
+log/lɔg/бревно
+penetrate/'penitreit/проникать внутрь
+support/sə'pɔ:t/поддерживать, опора, поддержка
+resources/ri'sɔ:siz/ресурсы (TR!)
+entry/'entri/вход
+excess/ik'ses/избыток
+balance/'bæləns/равновесие
+sale/seil/распродажа
+can/kæn/уметь, мочь
+absurd/əb'sə:d/нелепый
+accordance/ə'kɔ:dəns/согласованность, согласие, соответствие
+acid/'æsid/кислый, кислота (не sour)
+acquaintance/ə'kweintəns/знакомство, знакомый
+adventure/əd'venʧə/рисковать, отваживаться
+agony/'ægəni/мучение, сильная боль
+agreeable/ə'griəbl/приятный, милый
+ammunition/,æmju'niʃən/боеприпасы
+amuse/ə'mju:z/забавлять, развлекать
+amusement/ə'mju:zmənt/забава, развлечение
+cute/kju:t/изящный, прелестный
+never/'nevə/никогда
+immediately/i'mi:djətli/немедленно
+anyhow/'einihau/во всяком случае
+apology/ə'pɔləʤi/извинение
+default/di'fɔ:lt/неплатеж, невыполнение обязательств (TR!)
+bubble/'bʌbl/пузырь
+casual/'kæʒjuəl/случайный (не random)
+formal/'fɔ:məl/официальный, формальный
+size/saiz/размер, величина, измерить
+clear/kliə/ясный, светлый, очищать, расплатиться
+cool/ku:l/прохладный, холодный
+chilly/'ʧili/холодный, сухой, чопорный
+dry/drai/сухой
+slippery/'slipəri/скользкий
+shine/ʃain/сиять, светить
+behaviour/bi'heivjə/поведение
+spike/spaik/острие (!NEW!)
+afterwards/'a:ftəwəds/впоследствии, позже
+concern/kən'sə:n/забота
+rid/rid/освобождать
+poke/pəuk/толчок, тыкать
+snore/snɔ:/храпеть, храп
+author/'ɔ:θə/автор
+column/'kɔləm/графа, отдел
+copy/'kɔpi/копия, копировать
+duplicate/n'dju:plikit/дубликат, копия
+editor/'editə/редактор
+heading/'hediŋ/заголовок
+headline/'hedlain/заголовок
+inscription/in'skripʃən/надпись
+interview/'intəvju:/встреча, беседа
+observer/əb'zə:və/наблюдатель
+paragraph/'pærəgrɑ:f/параграф
+passage/'pæsiʤ/проход
+poetry/'pəuitri/поэзия, стихи
+proof/pru:f/доказательство
+publication/,pʌbli'keiʃən/публикация
+quotation/kwəuteiʃn/цитата
+script/skript/сценарий
+cruise/kru:z/морское путешествие
+eternal/i:'tə:nl/вечный (не forever)
+possession/pə'zeʃən/владение
+tomb/tu:m/могила, гробница
+alternative/ɔ:l'tə:nətiv/альтернатива, выбор
+teach/ti:ʧ/обучать, преподавать
+ache/eik/боль
+employ/im'plɔi/держать на работе, нанимать
+shrink/ʃriŋk/отпрянуть, садиться (о материи)
+except/ik'sept/исключая, кроме
+vain/veɪn/напрасный, тщетный
+ferment/n'fə:ment/закваска, фермент; бродить (о вине, варенье)
+must/mʌst/должен, надо
+will/wil/вспомогательный глагол будущего времени
+shall/ʃæl/модальный глагол долженствования
+should/ʃud/следует (от shall)
+gained/geind/полученный (TR!)
+mischievous/'misʧivəs/злонамеренный, злобный, шаловливый, озорной
+trial/'traiəl/попытка, испытание
+belly/'beli/живот, аппетит
+journey/ʤə:ni/путешествие
+varied/'veərɪd/различный (не differ) (TR!)
+hut/hʌt/хижина
+sow/səu/сеять
+hence/hens/следовательно
+neighbourhood/'neibəhud/соседство
+recover/ri'kʌvə/выздоравливать
+collar/'kɔlə/воротник
+drown/draun/тонуть, топить(ся), заглушать
+proud/praud/гордый
+shiver/'ʃivə/дрожать, дрожь, трепет
+spill/spil/проливать(ся), рассыпать(ся)
+thoughtful/θɔ:tful/задумчивый, погруженный в размышления
+ledge/leʤ/выступ, край
+breeches/'bri:ʧiz/брюки, бриджи (не trousers)
+spur/spə:/стимул
+ridge/riʤ/горный хребет, гребень (горы и т.п.) (не crest)
+tears/tɛəz/слёзы (!NEW!)
+nevertheless/,nevəðə'les/тем не менее
+dew/dju:/роса
+poor/puə/бедный
+stone/stəun/камень
+wrap/ræp/завертывать, шаль, плед, обертка
+battle/bætl/бой, сражение
+wire/'waiə/переводить телеграфом (деньги)
+imagination/i,mæʤi'neiʃən/воображение
+invite/in'vait/приглашать
+remind/'rimaind/напоминать, напомнить
+tight/tait/плотный, крепкий, тугой
+shave/ʃeiv/(по)бриться, бритье, подстригать
+goods/gudz/товары
+toy/tɔi/игрушка, играть, забавляться
+heaven/hevn/небо, небеса, бог, провидение
+high/hai/высокий
+clergyman/'klə:ʤimən/священник
+crescent/'kresnt/полумесяц
+deserted/dɪ'zɜ:rtɪd/брошенный, пустынный
+lane/lein/дорожка (не road)
+pray/prei/молить
+regards/ri'gɑ:dz/привет, поклон
+tied/taid/связанный (!NEW!)
+grabbed/græbd/захваченный (TR!)
+rock/rɔk/скала
+overflow/n'əuvəfləu/переливаться через край, заливать, переполнять
+bump/bʌmp/удар, толчок, шишка, ударять(ся), стукаться
+sway/swei/качание, взмах
+cure/kjuə/лекарство, лечить
+heal/hi:l/излечивать
+concentrate/'kɔnsəntreit/сосредотачиваться
+generate/'ʤenəreit/порождать
+reduce/re'dju:s/уменьшать, понижать, сокращать
+receiver/ri'si:və/приемник
+might/mait/можно, возможно (от may)
+would/wʋd/вспомогательный, модальный глагол (от will)
+assumption/ə'sʌmpʃən/предположение
+clip/klip/стричь, обрезать, зажимать (не trim)
+jam/ʤæm/варенье, джем
+arouse/ə'rauz/будить, пробуждать
+arrange/ə'reinʤ/устраивать, договариваться
+ashore/ə'ʃɔ:/на берег
+assemble/ə'semb(ə)l/созывать
+astonishment/əs'tɔniʃmənt/удивление, изумление
+attack/ə'tæk/нападение, наступать
+avenue/ævinju:/проспект
+await/ə'weit/ждать
+delightful/di'laitful/восхитительный (не marvellous)
+worst/wɜ:rst/наихудший
+government/'gʌvənmənt/правительство
+treated/tri:tɪd/лечил (от treat)
+commit/kə'mit/совершать (преступление)
+intimidate/in'timideit/пугать, запугивать
+prayers/prɛəz/просьбы(просители) (TR!)
+inject/in'ʤekt/впрыскивать
+struggle/strʌgl/бороться, борьба
+accord/ə'kɔ:d/согласие, гармония
+release/ri'li:s/освобождение, освобождать
+develop/di'veləp/развивать
+elementary/,eli'mentəri/элементарный
+secondary/'sekəndəri/средний, второстепенный
+higher/'haiə/выше
+free/fri:/свободный
+distance/'distəns/расстояние
+private/'praivit/частный
+blind/blaind/слепой
+handkerchief/'hæŋkəʧif/носовой платок
+wipe/waɪp/вытирать
+borrowed/'bɔrəud/брал в долг, взятый в долг (от borrow)
+toss/tɔs/толчок, сотрясение, кидать, бросать
+sleeve/sli:v/рукав
+underwear/'ʌndər‚weər/нижнее белье
+accommodate/ə'kɔmədeit/согласовывать, улаживать, примирять
+bury/'beri/хоронить, прятать
+cancel/'kænsəl/отменить, сократить
+climb/klaim/подниматься, влезать
+hike/haik/путешествовать пешком
+land/lænd/земля, суша, приземляться, высаживаться на берег
+load/ləud/нагрузка, нагружать
+pack/pæk/упаковывать, упаковать
+drive/draiv/водить машину, ехать на машине
+blacken/'blækən/чернить, чернеть
+coal/kəul/уголь
+else/els/еще, кроме
+fuel/fjuəl/топливо, горючее
+get/get/получать, доставать, достигать, добраться
+several/'sevrəl/несколько
+supply/sə'plai/снабжать
+simultaneously/,siməl'teinjəslɪ/одновременно
+rapid/'ræpid/быстрый
+gradual/'grædjuəl/постепенно
+slight/slait/проявление пренебрежительного равнодушия;неуважение, пренебрежение, игнорирование
+marry/'mæri/жениться, выходить замуж
+slab/slæb/плита
+nickel/'nikl/никл (монета в 5 центов)
+nursery/'nə:səri/детский, ясли
+twilight/'twaɪ‚laɪt/сумерки
+soft/səft/мягкий, тихий (не calm)
+nowhere/'nəuwɛə/нигде, никуда
+pregnant/'pregnənt/беременная, чреватый (последствиями и т. п.)
+injustice/in'ʤʌstis/несправедливость
+jungle/'ʤʌŋgl/джунгли
+carton/'kɑ:tən/коробка
+bottle/bɔtl/бутылка
+package/'pækiʤ/пакет
+bowl/bəul/кубок, чаша
+jar/ʤɑ:/ссора
+loaf/ləuf/безделье
+stick/stik/палка, приставать
+tub/tʌb/кадка, лохань, ушат
+snowman/'snəumən/снежная баба
+Christmas/'krisməs/рождество
+export/'ekspɔ:t/экспорт, экспортировать
+manufacture/,mænju'fækʧə/производство, производить
+destination/,desti'neiʃn/место назначения
+description/dis'kripʃən/описание
+unit/'ju:nit/единица
+custom/'kʌstəm/обычай
+estimate/n'estimit/оценка, проект, оценивать
+additional/ə'diʃənl/дополнительный
+south/sauθ/юг
+interior/in'tiəriə/внутренний (не internal)
+passed/pɑ:st/прошел (от pass)
+response/ris'pɔns/реакция, ответ (не reaction)
+remained/ri'meind/оставшийся (!NEW!)
+scattered/'skætəd/разбросанный, раскиданный (TR!)
+detached/di'tæʧt/отдельный
+measures/'meʒəz/меры (TR!)
+associate/nə'səuʃiit/соединять, присоединять
+brawl/brɔ:l/уличный скандал
+inspired/in'spaiəd/вдохновленный (TR!)
+smashed/smæʃt/разбитый (TR!)
+flung/flʌng/бросал, швырял (не threw) (!NEW!)
+dazed/deɪzd/ошеломленный
+recognition/,rekəg'niʃ(ə)n/узнавание
+famine/'fæmin/голод (не hanger)
+urged/ɜ:rdʒd/побуждённый, подстёгнутый (TR!)
+increasingly/in'kri:siŋli/все больше и больше
+heavily/'hevili/тяжело
+gossip/'gɔsip/сплетня
+curse/kə:s/проклятие
+maintain/mən'tein/поддерживать
+exist/ig'zist/существовать, жить
+mention/menʃn/благодарность, упоминать
+waste/weist/тратить, использованный, негодный
+foliage/'fəuliiʤ/листва
+limb/lim/конечность (анат.)
+stump/stʌmp/пень
+shoot/ʃu:t/стрелять, застрелить
+sport/spɔ:t/спорт, заниматься спортом
+way/wei/дорога, путь, способ
+lay/lei/класть, положить
+but/bʌt/но
+busy/'bizi/занятый
+gentleman/'ʤentlmən/господин, джентльмен
+dust/dʌst/пыль, вытирать пыль
+mistake/mis'teik/ошибка
+art/ɑ:t/искусство
+foggy/'fɔgi/туманный
+freedom/'fri:dəm/свобода
+meeting/'mi:tiŋ/встреча
+philosophy/fi'lɔsəfi/философия
+stay/stei/оставаться, жить (временно)
+underwater/'ʌndər‚wɒtər/под водой (TR!)
+view/vju:/взгляд, мнение, осматривать
+windy/'wɪndɪ/ветреный
+distinction/dis'tiŋkʃən/различие
+procure/prə'kjuə/доставать, добывать
+organized/'ɔ:gənaizd/организовывал (от organize)
+balloon/bə'lu:n/воздушный шар
+buckwheat/'bʌkwi:t/гречиха
+wheat/wi:t/пшеница
+rice/rais/рис
+barley/'bɑ:li/ячмень
+rye/rai/рожь
+rod/rɔd/прут, жезл, удочка
+practical/'præktik(ə)l/практический
+intense/in'tens/интенсивный, напряженный
+passionate/'pæʃənit/страстный
+assured/ə'ʃuəd/уверенный, застрахованный (!NEW!)
+envious/'enviəs/завистливый (не jealous)
+amount/ə'maunt/количество, сумма, составлять (сумму)
+certainly/'sə:tnli/конечно
+circulation/,sə:kju'leiʃən/кровообращение, тираж
+complexion/kəm'plekʃən/цвет лица
+complication/,kɔmpli'keiʃən/сложность
+considerable/kən'sidərəbl/значительный
+development/di'veləpmənt/развитие
+gifted/'giftid/одаренный
+loyalty/'lɔiəlti/верность
+main/mein/главный
+currant/'kʌrənt/коринка, смородина
+olive/'ɔliv/олива, маслина; оливкового цвета
+license/'laisəns/давать разрешение
+grant/grɑ:nt/дарить, дар
+modify/'mɔdifai/модифицировать
+immensely/i'mensli/чрезвычайно
+capable/'keipəbl/способный
+amusing/ə'mju:ziŋ/забавный, интересный
+embrace/im'breis/обнимать, включать
+apply/ə'plai/обращаться, применять
+belong/bi'lɔŋ/принадлежать
+consist/kən'sist/состоять
+search/sə:ʧ/искать, обыскивать, поиск, обыск
+many/'meni/много (с исчисляемыми существительными)
+feel/fi:l/чувствовать
+breakfast/'brekfəst/завтрак
+lunch/lʌnʧ/второй завтрак, обед
+dinner/'dinə/обед
+supper/'sʌpə/ужин
+veal/vi:l/телятина
+intention/in'tenʃn/намерение, замысел
+likewise/'laikwaiz/так же (!NEW!)
+revenge/ri'venʤ/месть, мстить
+serve/sə:v/служить, обслуживать, подавать
+rejection/ri'ʤekʃ(ə)n/отказ
+deck/dek/палуба
+con/kɔn/подставить (TR!)
+queer/kwiə/странный, эксцентричный
+joint/ʤɔint/совместный, объединенный
+imperative/im'perətiv/повелительное наклонение (грам.)
+Pathetic/pə'θetik/трогательный
+resigned/ri'zaind/покорный, безропотный
+force/fɔ:s/сила
+suffocate/'sʌfəkeit/душить, задыхаться
+thrill/θril/волновать
+subtle/'sʌtl/тонкий, неуловимый
+gracious/'greiʃəs/милосердный
+approve/ə'pru:v/одобрять
+gross/grəus/большой (не large)
+insane/in'sein/душевнобольной, ненормальный
+wearisome/'wɪrɪsəm/скучный, надоедливый
+proper/'prɔpə/правильный
+boast/bəust/хвастовство, хвастать
+conjure/'kʌnʤə/показывать фокусы
+contest/n'kɔntest/спор, соревнование, спорить
+survive/sə'vaiv/пережить
+harmless/'hɑ:mlis/безвредный, безобидный
+bidding/'bidiŋ/понижение цены
+rub/rʌb/тереть, стирать, трение
+dodge/dɔʤ/уловка, хитрость (не trick)
+cheat/ʧi:t/обманывать, надувать, обманщик, плут
+constitute/'kɔnstitju:t/назначать, учреждать
+binding/'baindiŋ/переплет
+mere/miə/простой
+curl/kə:l/виться, завивать(ся); локон, завиток
+feed/fi:d/кормить
+vastly/vɑ:stlɪ/значительно
+concerned/kən'sə:nd/заинтересованный, озабоченный, огорченный
+dick/dɪk/дик (TR!)
+burst/bə:st/заливаться, разражаться
+cast/kɑ:st/бросать, ронять, менять
+knit/nit/вязать, связывать
+shed/ʃed/сарай
+shut/ʃʌt/закрывать, запирать, замолчать
+split/split/раскалывать
+thrust/θrʌst/толчок, удар, толкать
+badge/bæʤ/знак, символ, эмблема
+foul/faul/загрязненный, грязный, бесчестный
+greasy/'gri:si/жирный, сальный
+bother/'bɔðə/беспокойство, хлопоты; источник беспокойства
+flutter/'flʌtə/махать
+expose/eks'pəuzei/выставлять, подвергать, разоблачать
+proceed/prə'si:d/продолжать
+range/reinʤ/ряд, линия, диапазон
+inherit/in'herit/(у)наследовать
+invest/in'vest/вкладывать, помещать (капитал)
+large/lɑ:ʤ/большой
+conceited/kən'si:tid/самодовольный, тщеславный
+sophisticated/sə'fistikeitid/сложный
+sincere/sin'siə/искренний (
+ignorant/'ignərənt/невежественный, неосведомленный, несведущий
+transportation/,trænspɔ:'teiʃən/перевозка
+terminal/'tə:minl/конечный пункт
+ox/ɔks/бык
+spectacles/'spektəklz/очки
+pincers/'pinsəz/клещи, щипцы
+quite/kwait/вполне, совсем
+drink/driŋk/напиток, пить
+help/help/помощь, помогать
+come/kʌm/приходить, приезжать
+work/wə:k/работать, делать, работа, труд
+restaurant/'rest(ə)rɔŋ/ресторан
+sleep/sli:p/спать, сон
+elderly/'eldəli/пожилой
+reply/ri'plai/отвечать, ответ
+respond/ris'pɔnd/отвечать
+roast/rəust/жареный
+salad/'sæləd/салат, винегрет
+twin/twin/двойной, двойник, близнец
+suite/swi:t/номер люкс
+bungalow/'bʌŋgeləu/(одноэтажная) дача, бунгало
+rates/ræts/стоит (от rate)
+recruit/ri'kru:t/вербовать, нанимать
+become/bi:'kʌm/становиться
+bring/briŋ/приносить, приводить
+buy/bai/покупать, купить
+choose/ʧu:z/выбирать
+slumber/'slʌmbə/сон, дремота, дремать
+do/du:/делать, действовать, вспомогательный глагол
+dream/dri:m/мечтать, видеть сны
+eat/i:t/есть (принимать пищу)
+enclosed/in'kləuzd/приложенный (не embedded, attached) (TR!)
+international/,intə'næʃnəl/международный
+relation/ri'leiʃn/отношение, связь
+ranger/'reinʤə/скиталец
+scuffle/'skʌfl/драка, потасовка
+crouch/krauʧ/притаиться
+rough/rʌf/грубый
+oar/ɔ:/весло
+groan/grəun/стон, стонать
+suspension/səs'penʃən/приостановка, пауза, перерыв
+bellow/'beləu/мычание, греметь, громыхать (не rattle)
+reserve/ri'zə:v/заказывать
+fold/fəuld/складывать, сгибать, скрещивать (руки); складка
+tighten/'taitn/сжимать (не squeeze)
+repair/ri'pɛə/ремонтировать, ремонт, починка
+paint/peint/красить, краска
+clean/kli:n/чистить, чистый
+resort/ri'zɔ:t/обращение, обращаться
+IS/iz/есть (от be)
+including/in'klu:diŋ/включая
+alteration/,ɔ:ltə'reiʃən/изменение, перемена
+discharge/dis'ʧɑ:ʤ/разряжать
+execution/,eksi'kju:ʃən/выполнение
+funny/'fʌni/смешной, забавный
+movies/'mu:viz/кино, фильмы (от movie)
+flight/flait/полет
+blond/blɔnd/белокурый
+blonde/blɔnd/блондин
+Bible/'baibl/библия
+conquer/'kɔŋkə/завоевывать, завоевать
+same/seim/тот же, так(ой) же
+mix/miks/смешивать, мешать
+desert/'dezət/пустыня
+tame/teim/приручать, приручить, прирученный
+wings/wɪŋz/крылья (!NEW!)
+clung/klʌŋ/цеплялся (TR!)
+dig/dig/копать
+dug/dʌg/сиська, вымя ((!NEW!))
+found/faund/нашел, найденный (от find)
+held/held/держал (!NEW!)
+said/sed/сказал (от say)
+sell/sel/продавать, торговать
+sold/səuld/продавал, проданный (от sell)
+squint/skwint/косоглазие, косить (о глазах)
+scramble/'skræmbl/карабкаться
+keen/ki:n/страстный
+flurry/'flʌri/будоражить
+linger/'liŋgə/медлить, задерживаться
+pile/pail/куча, груда, кипа, пачка
+roam/rəum/бродить, скитаться
+folk/fəuk/народная
+hum/hʌm/жужжать, гудеть
+feathers/'feðəz/перья (!NEW!)
+trading/'treidiŋ/торговля
+flock/flɔk/стадо, стая
+dive/daiv/нырять
+hare/hɛə/заяц
+awfully/'ɔ:f(ə)li/ужасно, очень (разг.), крайне
+slightly/'slaitli/слегка
+shone/ʃɔn/сиял, блестел (!NEW!)
+sit/sit/сидеть, заседать, годиться
+sat/sæt/сидел (от sit)
+spin/spin/прясть, крутить(ся)
+stand/stænd/остановка, позиция, стенд, киоск, стоять, останавливаться
+win/win/выигрывать, побеждать
+won/wʌn/победил, побежденный (от win)
+fed/fed/кормивший(питаемый) (TR!)
+got/got/получил, полученный (от get)
+grind/graind/молоть, толочь, точить
+ground/graund/земля
+met/met/встречались, встреченный (от meet)
+understood/‚ʌndər'stʋd/понимал, понятый (от understand)
+brought/brɔ:t/принес, принесенный (от bring)
+bought/bɔ:t/купил, купленный (от buy)
+taught/tɔ:t/обучал, обученный (от teach)
+thought/θɔ:t/думал, обдуманный (от think), мысль
+fought/fɔ:t/сражался (!NEW!)
+was/waz/был (от be)
+were/wer/были (от be)
+track/træk/след, тропа, колея
+intercourse/'intəkɔ:s/общение
+occupied/'ɒkjəpaɪd/занятый (!NEW!)
+golden/'gəuldən/золотой, золотистый
+manage/'mæniʤ/справляться, ухитряться, управлять
+ashamed/ə'ʃeimd/пристыженный (!NEW!)
+inhabitants/in'hæbitənts/Жители (TR!)
+grim/grim/жестокий, свирепый, мрачный
+wear/wɛə/одежда, носить, быть одетым
+whirl/wə:l/вихрь
+merely/'miəli/единственно
+conjecture/kən'ʤekʧə/догадка, предположение, предполагать
+emerge/i'mə:ʤ/появляться, выясняться, возникать (не appear)
+esteem/is'ti:m/уважать, почитать, уважение (не regard)
+consumption/kən'sʌmpʃən/потребление, расход
+causing/'kɔ:zɪŋ/порождение
+throughout/θru:'aut/повсюду, везде, во всех отношениях (не everywhere)
+admitted/əd'mɪtɪd/признанный(допущенный) (TR!)
+emotional/i'məuʃənl/эмоциональный
+serious/'siriəs/серьезный
+active/'æktiv/активный
+prison/prizn/тюрьма
+splendid/'splendid/замечательно
+outstanding/aut'stændiŋ/выдающийся
+satisfy/'sætisfai/удовлетворять
+ordinary/'ɔ:dnri/обычный, простой
+wonderful/wʌndəf(ə)l/замечательный, чудесный
+awful/'ɔ:ful/ужасный
+decline/di'klain/опускаться, уменьшаться, убывать
+vengeance/'vendʒəns/месть, мщение
+contempt/kən'tempt/презрение (не aversion)
+harshly/hɑ:ʃlɪ/грубо, резко
+confess/kən'fes/признавать
+coming/'kʌmiŋ/приход, приходящий (от come)
+making/'meikiŋ/создание, становление (процесс) (!NEW!)
+taking/'teikiŋ/овладение
+hint/hint/намек, намекать
+native/'neitiv/родной
+matter/'mætə/дело, сущность, материал
+cause/kɔ:z/дело, причина
+indeed/in'di:d/неужели, действительно (не really)
+humble/'hʌmbl/скромный
+beast/bi:st/зверь, животное
+confinement/kən'fainmənt/заключение (TR!)
+suspended/səs'pendid/приостановленный (!NEW!)
+undo/'ʌndu/развязывать, расстегивать
+none/nʌn/нисколько, совсем не, вовсе не
+ever/'evə/когда-либо
+payment/'peimənt/плата
+entertainment/,entə'teimənt/развлечение
+haste/heist/спешка
+constant/'kɔnstənt/постоянный
+shaped/ʃeipt/форменный (TR!)
+sportsman/'spɔ:tsmən/спортсмен
+designer/di'zainə/конструктор
+reward/ri'wɔ:d/награда
+midst/midst/середина
+spare/spɛə/уделять, лишний, запасный
+hanging/'hæŋiŋ/подвешивание
+forced/fɔ:st/принудительный, принужденный
+prosper/'prɔspə/процветать
+mock/mɔk/насмехаться (не jeer)
+convincing/kən'vinsiŋ/убедительный
+omelette/'ɔmlii/омлет
+honey/'hʌni/мед
+hermit/'hə:mit/отшельник
+displeased/dis'pli:zd/недовольный
+clumsy/'klʌmsi/неуклюжий
+wrath/ræƟ/гнев, ярость
+envy/'envi/зависть, завидовать
+fury/'fjuəri/неистовство
+frown/fraun/нахмуриться, недовольное выражение лица
+frank/fræŋk/искренний, откровенный, открытый
+confused/kən'fju:zd/запутанный, смущённый ((!NEW!))
+wherever/weər'evər/где бы ни, куда бы ни
+poster/'pəustə/плакат
+celebrity/si'lebriti/известность, знаменитость
+steadily/'stedilɪ/неуклонно
+vehemently/'vi:əməntlɪ/сильно
+retreat/ri'tri:t/отступать, отступление, убежище
+official/ə'fiʃl/официальный, чиновник
+unlikely/'ʌnlaiklɪ/маловероятный, вряд ли
+documentation/‚dɒkjəmen'teɪʃən/документация (TR!)
+conversation/,kɔnvə'seiʃ(ə)n/разговор, беседа
